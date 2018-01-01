@@ -1,0 +1,47 @@
+<script src="http://d3js.org/d3.v3.min.js"></script>
+
+<div class='content'></div>
+
+<script>
+// name, valuation (millions), founding time
+var data_lines = [
+  'Cruise 1000 W14',
+  'Flexport 800 W14',
+  'AirBnB  25500 W09',
+  'Dropbox 10000 S07',
+  'Zenefits  2000  W13',
+  'Stripe  3500  S10',
+  'Instacart 2000  S12',
+  'Docker  1000  S10',
+  'Twitch  970 S07',
+  'Mixpanel  865 S09',
+  'DoorDash  600 S13',
+  'ZenPayroll  560 W12',
+  'Reddit  500 S05',
+  'Coinbase  471 S12',
+  'Weebly  455 W07',
+];
+
+var airbnb_valuation = [(10, 2014), (25.5, 2015), (30, 2016)];
+
+var time_of_snapshot = 5 + (14.5 - 5);
+var tuples = [];
+var companies = [];
+
+data_lines.forEach(function(line) {
+  split = line.split(/ +/);
+  var company = split[0], valuation = split[1], founding_time = split[2];
+  valuation = parseInt(valuation);
+  founding_time = parseInt(founding_time.slice(1)) + (founding_time[0] == 'W' ? 0.5 : 0);
+  age_of_company = time_of_snapshot - founding_time;
+  annualized_valuation = valuation / (age_of_company > 0 ? age_of_company : 1);
+  // annualized_valuation = valuation;
+  tuples.push([company, founding_time, annualized_valuation]);
+  console.log('co:', [company, founding_time, annualized_valuation].toString());
+});
+
+tuples.sort(function(a, b) { return a[1] - b[1]; });
+var data = tuples;
+</script>
+
+<script type="text/javascript" src="scatterchart.js"></script>
