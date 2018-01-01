@@ -4,13 +4,13 @@ var margin = {top: 20, right: 60, bottom: 60, left: 60}
 
 var x = d3.scale.linear()
           .domain([
-            d3.min(data, function(d) { return d[1]; }),
-            d3.max(data, function(d) { return d[1]; })
+            d3.min(data, function(d) { return d.year_founded; }),
+            d3.max(data, function(d) { return d.year_founded; })
           ])
           .range([ 0, width ]);
 
 var y = d3.scale.linear()
-        .domain([0, d3.max(data, function(d) { return d[2]; })])
+        .domain([0, d3.max(data, function(d) { return d.annualized_valuation; })])
         .range([ height, 0 ]);
 
 var chart = d3.select('body')
@@ -35,6 +35,13 @@ main.append('g')
 .attr('class', 'main axis date')
 .call(xAxis);
 
+main.append("text")
+  .attr("transform",
+        "translate(" + (width/2) + " ," +
+                       (height + margin.top + 20) + ")")
+  .style("text-anchor", "middle")
+  .text("Year founded");
+
 // draw the y axis
 var yAxis = d3.svg.axis()
 .scale(y)
@@ -45,13 +52,22 @@ main.append('g')
 .attr('class', 'main axis date')
 .call(yAxis);
 
+// text label for the y axis
+main.append("text")
+    .attr("transform", "rotate(-90)")
+    .attr("y", 0 - margin.left)
+    .attr("x",0 - (height / 2))
+    .attr("dy", "1em")
+    .style("text-anchor", "middle")
+    .text("Valuation / Age");
+
 var g = main.append("svg:g");
 
 g.selectAll("scatter-dots")
   .data(data)
   .enter().append("svg:circle")
-      .attr("cx", function (d,i) { return x(d[1]); } )
-      .attr("cy", function (d) { return y(d[2]); } )
+      .attr("cx", function (d,i) { return x(d.year_founded); } )
+      .attr("cy", function (d) { return y(d.annualized_valuation); } )
       .attr("r", 4);
 
 
@@ -59,13 +75,13 @@ g.selectAll("text")
   .data(data)
   .enter().append("text")
     .text(function(d) {
-        return d[0];
+        return d.name;
     })
     .attr("x", function(d) {
-        return x(d[1]) + 5;  // Returns scaled location of x
+        return x(d.year_founded) + 5;  // Returns scaled location of x
     })
     .attr("y", function(d) {
-        return y(d[2]);  // Returns scaled circle y
+        return y(d.annualized_valuation);  // Returns scaled circle y
     })
     .attr("font_family", "sans-serif")  // Font type
     .attr("font-size", "14px")  // Font size

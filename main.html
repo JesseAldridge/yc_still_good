@@ -3,45 +3,34 @@
 <div class='content'></div>
 
 <script>
-// name, valuation (millions), founding time
-var data_lines = [
-  'Cruise 1000 W14',
-  'Flexport 800 W14',
-  'AirBnB  25500 W09',
-  'Dropbox 10000 S07',
-  'Zenefits  2000  W13',
-  'Stripe  9000  S10',
-  'Instacart 2000  S12',
-  'Docker  1000  S10',
-  'Twitch  970 S07',
-  'Mixpanel  865 S09',
-  'DoorDash  600 S13',
-  'ZenPayroll  560 W12',
-  'Reddit  500 S05',
-  'Coinbase  471 S12',
-  'Weebly  455 W07',
-];
+var companies = [
+  {name: 'Cruise', valuation_billions: 1, year_founded: 2014.5, year_exited: 2016},
+  {name: 'Flexport', valuation_billions: .8, year_founded: 2014.5},
+  {name: 'Airbnb', valuation_billions: 25.5, year_founded: 2009.5},
+  {name: 'Dropbox', valuation_billions: 10, year_founded: 2007},
+  {name: 'Zenefits', valuation_billions: 2, year_founded: 2013.5},
+  {name: 'Stripe', valuation_billions: 9, year_founded: 2010},
+  {name: 'Instacart', valuation_billions: 2, year_founded: 2012},
+  {name: 'Docker', valuation_billions: 1, year_founded: 2010},
+  {name: 'Twitch', valuation_billions: .97, year_founded: 2007, year_exited: 2014.5},
+  {name: 'Mixpanel', valuation_billions: .865, year_founded: 2009},
+  {name: 'DoorDash', valuation_billions: .6, year_founded: 2013},
+  {name: 'ZenPayroll', valuation_billions: .56, year_founded: 2012.5},
+  {name: 'Reddit', valuation_billions: .5, year_founded: 2005},
+  {name: 'Coinbase', valuation_billions: .471, year_founded: 2012},
+  {name: 'Weebly', valuation_billions: .455, year_founded: 2007.5},
+]
 
-var airbnb_valuation = [(10, 2014), (25.5, 2015), (30, 2016)];
-
-var time_of_snapshot = 5 + (14.5 - 5);
-var tuples = [];
-var companies = [];
-
-data_lines.forEach(function(line) {
-  split = line.split(/ +/);
-  var company = split[0], valuation = split[1], founding_time = split[2];
-  valuation = parseInt(valuation);
-  founding_time = parseInt(founding_time.slice(1)) + (founding_time[0] == 'W' ? 0.5 : 0);
-  age_of_company = time_of_snapshot - founding_time;
-  annualized_valuation = valuation / (age_of_company > 0 ? age_of_company : 1);
-  // annualized_valuation = valuation;
-  tuples.push([company, founding_time, annualized_valuation]);
-  console.log('co:', [company, founding_time, annualized_valuation].toString());
+companies.forEach(function(company) {
+  var age = new Date().getFullYear() - company.year_founded;
+  if(company.year_exited)
+    age = company.year_exited - company.year_founded;
+  company.annualized_valuation = company.valuation_billions / age;
 });
 
-tuples.sort(function(a, b) { return a[1] - b[1]; });
-var data = tuples;
+companies.sort(function(a, b) { return a.year_founded - b.year_founded; });
+var data = companies;
+console.log('companies:', companies);
 </script>
 
 <script type="text/javascript" src="scatterchart.js"></script>
