@@ -59,7 +59,7 @@ main.append("text")
     .attr("x",0 - (height / 2))
     .attr("dy", "1em")
     .style("text-anchor", "middle")
-    .text("Valuation / Age");
+    .text("Valuation (billions) / Age (years)");
 
 var g = main.append("svg:g");
 
