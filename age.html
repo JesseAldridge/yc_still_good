@@ -94,22 +94,6 @@ function plot(companies) {
 (function() {
   var companies = [
     {
-      name: 'Cruise',
-      valuations: [
-        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/cruise#section-overview
-        {billions: 1, year: 2016}, // https://www.investors.com/news/gm-softbank-investment-cruise-self-driving-cars/
-        {billions: 11.5, year: 2018}, // https://www.investors.com/news/gm-softbank-investment-cruise-self-driving-cars/
-      ],
-    },
-    {
-      name: 'Flexport',
-      valuations: [
-        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/flexport
-        {billions: .365, year: 2016}, // https://techcrunch.com/2017/09/21/container-full-of-cash/
-        {billions: .8, year: 2017} // https://techcrunch.com/2017/09/21/container-full-of-cash/
-      ]
-    },
-    {
       name: 'Airbnb',
       valuations: [
         {billions: 0, year: 2008}, // https://www.crunchbase.com/organization/airbnb#section-overview
@@ -119,6 +103,21 @@ function plot(companies) {
         {billions: 24, year: 2015}, // http://fortune.com/2015/06/17/airbnb-valuation-revenue/
         {billions: 31, year: 2017}, // https://www.forbes.com/sites/greatspeculations/2018/05/11/as-a-rare-profitable-unicorn-airbnb-appears-to-be-worth-at-least-38-billion/#4f5c3b92741e
         {billions: 38, year: 2018} // https://www.forbes.com/sites/greatspeculations/2018/05/11/as-a-rare-profitable-unicorn-airbnb-appears-to-be-worth-at-least-38-billion/#4f5c3b92741e
+      ]
+    },
+    {
+      name: 'Cruise',
+      valuations: [
+        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/cruise#section-overview
+        {billions: 1, year: 2016}, // https://www.investors.com/news/gm-softbank-investment-cruise-self-driving-cars/
+        {billions: 11.5, year: 2018}, // https://www.investors.com/news/gm-softbank-investment-cruise-self-driving-cars/
+      ],
+    },
+    {
+      name: 'DoorDash',
+      valuations: [
+        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/doordash
+        {billions: 4, year: 2018}, // https://techcrunch.com/2018/08/16/doordash-4-billion/
       ]
     },
     {
@@ -133,12 +132,52 @@ function plot(companies) {
       ]
     },
     {
-      name: 'Zenefits',
+      name: 'Flexport',
       valuations: [
-        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/zenefits
-        {billions: 4.5, year: 2015}, // https://techcrunch.com/2015/05/06/zenefits-rising-hrs-hottest-startup-just-raised-500-million-at-a-4-5-billion-valuation/
-        {billions: 2, year: 2016}, // https://www.nytimes.com/2016/07/01/technology/zenefits-compensates-investors-over-past-misconduct.html
+        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/flexport
+        {billions: .365, year: 2016}, // https://techcrunch.com/2017/09/21/container-full-of-cash/
+        {billions: .8, year: 2017} // https://techcrunch.com/2017/09/21/container-full-of-cash/
       ]
+    },
+    {
+      name: 'Instacart',
+      valuations: [
+        {billions: 0, year: 2012}, // https://www.crunchbase.com/organization/instacart
+        {billions: 3.4, year: 2017}, // https://techcrunch.com/2017/03/07/instacart-raises-400-million-at-a-3-4-billion-valuation-to-deliver-groceries-on-demand/
+        {billions: 4.2, year: 2018}, // https://techcrunch.com/2018/02/12/instacart-has-raised-another-200m-at-a-4-2b-valuation/
+      ]
+    },
+    {
+      name: 'PlanGrid',
+      valuations: [
+        {billions: 0, year: 2011}, // https://www.crunchbase.com/organization/plangrid
+      ],
+      revenue: [
+        {billions: 13, year: 2017} // https://mse238blog.stanford.edu/2017/07/jchoi8/plangrid-a-sequoia-backed-company-finds-success-by-throwing-paper-up-into-the-cloud/
+      ],
+      funding: [
+        {millions: 40, year: 2015} // https://techcrunch.com/2015/11/18/plangrid-lands-40-million-investment-to-expand-product/
+      ],
+    },
+    // {
+    //   name: 'Docker',
+    //   valuations: [
+    //     {billions: 0, year: 2010},  // https://www.crunchbase.com/organization/docker
+    //     {billions: 1.3, year: 2017}, // https://www.bloomberg.com/news/articles/2017-08-09/docker-is-said-to-be-raising-funding-at-1-3-billion-valuation
+    //   ]
+    // },
+    {
+      name: 'Segment',
+      valuations: [
+        {billions: 0, year: 2011}, // https://www.crunchbase.com/organization/segment-io
+      ],
+      revenue: [
+      ],
+      funding: [
+        {millions: 2, year: 2011},
+        {millions: .6, year: 2013},
+        {millions: 64, year: 2017} // https://pitchbook.com/profiles/company/56013-76
+      ],
     },
     {
       name: 'Stripe',
@@ -150,21 +189,6 @@ function plot(companies) {
         {billions: 20, year: 2018}, // http://fortune.com/2018/09/27/stripe-valuation-ipo-stock/
       ]
     },
-    {
-      name: 'Instacart',
-      valuations: [
-        {billions: 0, year: 2012}, // https://www.crunchbase.com/organization/instacart
-        {billions: 3.4, year: 2017}, // https://techcrunch.com/2017/03/07/instacart-raises-400-million-at-a-3-4-billion-valuation-to-deliver-groceries-on-demand/
-        {billions: 4.2, year: 2018}, // https://techcrunch.com/2018/02/12/instacart-has-raised-another-200m-at-a-4-2b-valuation/
-      ]
-    },
-    // {
-    //   name: 'Docker',
-    //   valuations: [
-    //     {billions: 0, year: 2010},  // https://www.crunchbase.com/organization/docker
-    //     {billions: 1.3, year: 2017}, // https://www.bloomberg.com/news/articles/2017-08-09/docker-is-said-to-be-raising-funding-at-1-3-billion-valuation
-    //   ]
-    // },
     // {
     //   name: 'Twitch',
     //   valuations: [
@@ -179,13 +203,6 @@ function plot(companies) {
     //     {billions: .865, year: 2014} // https://www.quora.com/What-is-the-most-recent-valuation-of-MixPanel
     //   ]
     // },
-    {
-      name: 'DoorDash',
-      valuations: [
-        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/doordash
-        {billions: 4, year: 2018}, // https://techcrunch.com/2018/08/16/doordash-4-billion/
-      ]
-    },
     {
       name: 'Gusto',
       valuations: [
@@ -236,7 +253,15 @@ function plot(companies) {
         {billions: 0, year: 2015}, // https://www.crunchbase.com/organization/rappi
         {billions: 1, year: 2018}, // https://techcrunch.com/2018/08/31/rappi-raises-200m-as-latin-american-tech-investment-reaches-new-highs/
       ]
-    }
+    },
+    {
+      name: 'Zenefits',
+      valuations: [
+        {billions: 0, year: 2013}, // https://www.crunchbase.com/organization/zenefits
+        {billions: 4.5, year: 2015}, // https://techcrunch.com/2015/05/06/zenefits-rising-hrs-hottest-startup-just-raised-500-million-at-a-4-5-billion-valuation/
+        {billions: 2, year: 2016}, // https://www.nytimes.com/2016/07/01/technology/zenefits-compensates-investors-over-past-misconduct.html
+      ]
+    },
   ];
 
   companies.forEach(function(company) {
