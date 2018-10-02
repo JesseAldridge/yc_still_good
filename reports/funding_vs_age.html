@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.line {
+  fill: none;
+  stroke: steelblue;
+  stroke-width: 2px;
+}
+
+</style>
+<body>
+
+<script src="../d3.v4.min.js"></script>
+<script src="../data/deals.js"></script>
+<script src="../data/valuations.js"></script>
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var parseTime = d3.timeParse("%d-%b-%y");
+
+var x = d3.scaleTime().range([0, width]);
+var y = d3.scaleLinear().range([height, 0]);
+var z = d3.scaleOrdinal(d3.schemeCategory20);
+
+// define the line
+const value_line = d3.line()
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.val); });
+
+// Add the svg element
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform",
+          "translate(" + margin.left + "," + margin.top + ")");
+
+function parse_date(date_str) {
+  if(!date_str)
+    return null;
+  const vals = date_str.split('-');
+  if(vals[0].length != 2)
+    return null;
+  date = new Date()
+  date.setDate(vals[0])
+  month_name_to_val = {
+    'jan': 0,
+    'feb': 1,
+    'mar': 2,
+    'apr': 3,
+    'may': 4,
+    'jun': 5,
+    'jul': 6,
+    'aug': 7,
+    'sep': 8,
+    'oct': 9,
+    'nov': 10,
+    'dec': 11,
+  }
+  const month_val = month_name_to_val[vals[1].toLowerCase()];
+  date.setMonth(month_val)
+  date.setYear(vals[2])
+  return date;
+}
+
+function parse_amount(s) {
+  if(!s || s[0] != '$')
+    return null;
+  const unit_str = s.trim()[s.length - 1];
+  const unit_val = {
+    'm': 10**6,
+    'b': 10**9,
+  }[unit_str.toLowerCase()]
+
+  return parseFloat(s.substring(1, s.length - 2)) * unit_val
+}
+
+function plot(raw_companies) {
+  name_to_valuations = {};
+  for(let i = 0; i < all_valuations.length; i++) {
+    const company = all_valuations[i];
+    const name = company.name.toLowerCase();
+    name_to_valuations[name] = company.valuations;
+  };
+
+  // Clean up raw data
+  companies = [];
+  for(let i1 = 0; i1 < raw_companies.length; i1++) {
+    const company = raw_companies[i1];
+    const deals = [];
+
+    // Add initial $0 deal at founding date
+    const valuations = name_to_valuations[company.company_name.toLowerCase()];
+    const year_founded = valuations[0].year;
+    const date_founded = new Date();
+    date_founded.setYear(year_founded);
+    date_founded.setMonth(0); // assume founded in january for simplicity
+    deals.push({
+      date: date_founded,
+      val: 0,
+    });
+
+    // Parse pitchbook strings into useable values
+    for(let i2 = 0; i2 < company.deals.length; i2++) {
+      const val = parse_amount(company.deals[i2].Amount);
+      if(!val || val == 0)
+        continue;
+      console.log('val:', val);
+      // Ignore Cruise's 3.3 billion dollar raise
+      if(company.deals[i2]["Deal Type"].indexOf("PE Growth/Expansion") != -1) {
+        continue
+      }
+      deals.push({
+        date: parse_date(company.deals[i2].Date),
+        val: val,
+      });
+    }
+    deals.sort(function(a, b) { return a.date.getTime() - b.date.getTime() });
+    company.deals = deals;
+    if(deals.length > 0) // No pitchbook data for public companies (i.e. Dropbox)
+      companies.push(company)
+  }
+
+  // Find extreme values to set axes
+  var all_dates = [];
+  var all_vals = [];
+  companies.forEach(function(company) {
+    company.deals.forEach(function(d) {
+      all_dates.push(d.date);
+      all_vals.push(d.val);
+    })
+  });
+  x.domain(d3.extent(all_dates));
+  y.domain([0, d3.max(all_vals)]);
+
+  for(var i = 0; i < companies.length; i++)
+    companies[i].id = i;
+
+  z.domain(companies.map(function(c) { return c.id; }));
+
+  console.log('plotting:', companies);
+
+  // Add the value_line path.
+  companies.forEach(function(company) {
+    svg.append("path")
+        .data([company.deals])
+        .attr("class", "line")
+        .attr("d", value_line)
+        .style("stroke", z(company.id));
+  });
+
+  companies.forEach(function(company) {
+    svg.append("text")
+      .data([company])
+      .text(function(company) {
+        return company.company_name;
+      })
+      .attr("x", function(c) {
+        console.log('c:', c);
+        return x(c.deals[c.deals.length - 1].date - 1000 * 60 * 60 * 24 * 30 * 8);
+      })
+      .attr("y", function(c) {
+        return y(c.deals[c.deals.length - 1].val);
+      })
+      .attr("font_family", "sans-serif")
+      .attr("font-size", "14px");
+  });
+
+  // Add the X Axis
+  svg.append("g")
+      .attr("transform", "translate(0," + height + ")")
+      .call(d3.axisBottom(x));
+
+  // Add the Y Axis
+  svg.append("g")
+      .call(d3.axisLeft(y).tickFormat(d3.format(".2s")));
+};
+
+plot(all_deals);
+</script>
+</body>
+</html>
