@@ -25,13 +25,13 @@ var margin = {top: 20, right: 20, bottom: 60, left: 70},
 
 var parseTime = d3.timeParse("%d-%b-%y");
 
-var x = d3.scaleTime().range([0, width]);
+var x = d3.scaleLinear().range([0, width]);
 var y = d3.scaleLinear().range([height, 0]);
 var z = d3.scaleOrdinal(d3.schemeCategory20);
 
 // define the line
 const value_line = d3.line()
-    .x(function(d) { return x(d.date); })
+    .x(function(d) { return x(d.age); })
     .y(function(d) { return y(d.val); });
 
 // Add the svg element
@@ -42,7 +42,19 @@ var svg = d3.select("body").append("svg")
     .attr("transform",
           "translate(" + margin.left + "," + margin.top + ")");
 
-function plot(companies) {
+function plot(raw_companies) {
+  const companies = {};
+  for(let company_key in raw_companies) {
+    const company = raw_companies[company_key];
+    company.rounds.sort(function(a,b) {
+        return Date.parse(a.date_str) - Date.parse(b.date_str);
+    });
+    company.rounds.forEach(function(r) {
+      r.age = Date.parse(r.date_str) - Date.parse(company.rounds[0].date_str);
+    });
+    companies[company_key] = company;
+  };
+
   // Clean up raw data
   for(let company_key in companies) {
     const company = companies[company_key];
@@ -65,11 +77,10 @@ function plot(companies) {
       if(!val || val == 0)
         continue;
       rounds.push({
-        date: new Date(Date.parse(company.rounds[i2].date_str)),
+        age: company.rounds[i2].age,
         val: val,
       });
     }
-    rounds.sort(function(a, b) { return a.date.getTime() - b.date.getTime() });
     company.rounds = rounds;
     // if(rounds.length > 0)
     //   companies.push(company)
@@ -81,7 +92,7 @@ function plot(companies) {
   for(let company_key in companies) {
     const company = companies[company_key];
     company.rounds.forEach(function(d) {
-      all_dates.push(d.date);
+      all_dates.push(d.age);
       all_vals.push(d.val);
     })
   }
@@ -104,6 +115,7 @@ function plot(companies) {
   // Add the value_line path.
   for(let company_key in companies) {
     const company = companies[company_key];
+    console.log('rounds:', company.rounds);
     svg.append("path")
         .data([company.rounds])
         .attr("class", "line")
@@ -119,7 +131,7 @@ function plot(companies) {
         return company.slug;
       })
       .attr("x", function(c) {
-        return x(c.rounds[c.rounds.length - 1].date - 1000 * 60 * 60 * 24 * 30 * 8);
+        return x(c.rounds[c.rounds.length - 1].age - 1);
       })
       .attr("y", function(c) {
         return y(c.rounds[c.rounds.length - 1].val);
@@ -141,7 +153,7 @@ function plot(companies) {
   svg.append("text")
       .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
       .attr("transform", "translate(" + (width/2) + "," + (height + 40) + ")")  // centre below axis
-      .text("Date");
+      .text("Age");
 
   // Add the Y Axis
   svg.append("g")

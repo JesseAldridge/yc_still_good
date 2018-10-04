@@ -9,7 +9,7 @@
 }
 
 * {
-  font-family: Helvetica;
+  font-family: Helvetica
 }
 
 </style>
@@ -19,20 +19,20 @@
 <script src="../companies.js"></script>
 <script>
 
-var margin = {top: 20, right: 20, bottom: 60, left: 80},
+var margin = {top: 20, right: 20, bottom: 60, left: 70},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 var parseTime = d3.timeParse("%d-%b-%y");
 
-var x = d3.scaleLinear().range([0, width]);
+var x = d3.scaleTime().range([0, width]);
 var y = d3.scaleLinear().range([height, 0]);
-var z = d3.scaleOrdinal(d3.schemeCategory10);
+var z = d3.scaleOrdinal(d3.schemeCategory20);
 
 // define the line
 const value_line = d3.line()
-    .x(function(d) { return x(d.age); })
-    .y(function(d) { return y(d.billions); });
+    .x(function(d) { return x(d.date); })
+    .y(function(d) { return y(d.val); });
 
 // Add the svg element
 var svg = d3.select("body").append("svg")
@@ -43,27 +43,60 @@ var svg = d3.select("body").append("svg")
           "translate(" + margin.left + "," + margin.top + ")");
 
 function plot(companies) {
-  var all_dates = [];
-  var all_valuations = [];
+  // Clean up raw data
   for(let company_key in companies) {
     const company = companies[company_key];
-    company.valuations.forEach(function(d) {
-      all_dates.push(d.age);
-      all_valuations.push(d.billions);
+    const rounds = [];
+
+    // Add initial $0 deal at founding date
+    // const year_founded = company.valuations[0].year;
+    // const date_founded = new Date();
+    // date_founded.setYear(year_founded);
+    // date_founded.setMonth(0); // assume founded in january for simplicity
+    // rounds.push({
+    //   date: date_founded,
+    //   val: 0,
+    // });
+
+    // Parse pitchbook strings into useable values
+    console.log('company:', company);
+    for(let i2 = 0; i2 < company.rounds.length; i2++) {
+      const val = parseFloat(company.rounds[i2].amount);
+      if(!val || val == 0)
+        continue;
+      rounds.push({
+        date: new Date(Date.parse(company.rounds[i2].date_str)),
+        val: val,
+      });
+    }
+    rounds.sort(function(a, b) { return a.date.getTime() - b.date.getTime() });
+    company.rounds = rounds;
+    // if(rounds.length > 0)
+    //   companies.push(company)
+  }
+
+  // Find extreme values to set axes
+  var all_dates = [];
+  var all_vals = [];
+  for(let company_key in companies) {
+    const company = companies[company_key];
+    company.rounds.forEach(function(d) {
+      all_dates.push(d.date);
+      all_vals.push(d.val);
     })
-  };
+  }
   x.domain(d3.extent(all_dates));
-  y.domain([0, d3.max(all_valuations)]);
+  y.domain([0, d3.max(all_vals)]);
 
   const ids = [];
   let i = 0;
   for(let company_key in companies) {
     const company = companies[company_key];
-    company.id = i;
+    companies[company_key].id = i;
     ids.push(i);
     i += 1;
   }
-
+  console.log('ids:', ids);
   z.domain(ids);
 
   console.log('plotting:', companies);
@@ -72,11 +105,11 @@ function plot(companies) {
   for(let company_key in companies) {
     const company = companies[company_key];
     svg.append("path")
-        .data([company.valuations])
+        .data([company.rounds])
         .attr("class", "line")
         .attr("d", value_line)
         .style("stroke", z(company.id));
-  }
+  };
 
   for(let company_key in companies) {
     const company = companies[company_key];
@@ -86,10 +119,10 @@ function plot(companies) {
         return company.slug;
       })
       .attr("x", function(c) {
-        return x(c.valuations[c.valuations.length - 1].age - .5);
+        return x(c.rounds[c.rounds.length - 1].date - 1000 * 60 * 60 * 24 * 30 * 8);
       })
       .attr("y", function(c) {
-        return y(c.valuations[c.valuations.length - 1].billions);
+        return y(c.rounds[c.rounds.length - 1].val);
       })
       .attr("font_family", "sans-serif")
       .attr("font-size", "14px");
@@ -102,41 +135,20 @@ function plot(companies) {
 
   svg.append("text")
       .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+      .attr("transform", "translate(" + -40 + "," + (height/2) + ")rotate(-90)")  // text is drawn off the screen top left, move down and out and rotate
+      .text("Funding");
+
+  svg.append("text")
+      .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
       .attr("transform", "translate(" + (width/2) + "," + (height + 40) + ")")  // centre below axis
       .text("Date");
 
   // Add the Y Axis
   svg.append("g")
-      .call(d3.axisLeft(y));
-
-  svg.append("text")
-      .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
-      .attr("transform", "translate(" + -40 + "," + (height/2) + ")rotate(-90)")  // text is drawn off the screen top left, move down and out and rotate
-      .text("Funding");
+      .call(d3.axisLeft(y).tickFormat(d3.format(".2s")));
 };
 
-(function() {
-  const filtered_companies = {};
-  // These companies clutter the graph without offering much more useful info.
-  const exclude = [
-    'flexport', 'mixpanel', 'gusto', 'docker', 'twitch', 'weebly', 'reddit', 'ginkgo-bioworks'
-  ];
-
-  for(let company_key in companies) {
-    if(exclude.indexOf(company_key) != -1)
-      continue;
-    const company = companies[company_key];
-    if(!company.valuations || company.valuations.length == 1)
-      continue
-    company.valuations.forEach(function(v) {
-      v.age = v.year - company.valuations[0].year;
-    });
-    filtered_companies[company_key] = company;
-  };
-
-  console.log('companies:', companies);
-  plot(filtered_companies);
-})();
+plot(companies);
 </script>
 </body>
 </html>
