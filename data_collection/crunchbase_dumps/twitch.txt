@@ -1,0 +1,485 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+Twitch
+Overview
+Siftery
+Acquisition Details
+Funding Rounds
+Investors
+Acquisitions
+Related Hubs
+Mobile App Metrics by Apptopia
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Patents and Trademarks by IPqwery
+Current Team
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Acquired by
+Amazon
+Amazon
+Number of Acquisitions
+3
+Twitch
+Twitch
+Twitch is social video platform for gamers where more than 100 million gather every month to broadcast, watch and talk about video games.
+San Francisco, California, United States
+Categories
+Social Media, Video, Video Games, Video Streaming
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Sub-Organization of
+Amazon
+Amazon
+Founded Date
+2007
+Founders
+Emmett Shear, Justin Kan, Kyle Vogt
+Operating Status
+Active
+Funding Status
+M&A
+Last Funding Type
+Series C
+Number of Employees
+251-500
+Also Known As
+twitch.tv, Twitch Interactive, Twitch Interactive, Inc.
+IPO Status
+Private
+Company Type
+For Profit
+Website
+www.twitch.tv/
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Twitch is social video for gamers. It is a video platform and community for gamers where more than 100 million gather every month to broadcast, watch and talk about video games. Twitch’s video platform is the backbone of both live and on-demand distribution for the entire video game ecosystem. This includes game developers, publishers, media...
+
+Read More
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Acquisition Details
+Transaction Name
+Twitch acquired by Amazon
+Twitch acquired by Amazon
+Acquired by
+Amazon
+Amazon
+Announced Date
+Aug 25, 2014
+Price
+$970M
+Funding Rounds
+Number of Funding Rounds
+2
+Total Funding Amount
+$35M
+Twitch raised a total of $35M in funding over 2 rounds. The latest funding came from a Series C round on Sep 30, 2013.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Sep 30, 2013
+Series C - Twitch
+Series C - Twitch
+5 $20M  Thrive Capital
+Sep 19, 2012
+Series B - Twitch
+Series B - Twitch
+3 $15M  Bessemer Venture Partners
+Investors
+Number of Lead Investors
+2
+Number of Investors
+6
+Twitch is funded by 6 investors. Thrive Capital and Take-Two Interactive Software are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Thrive Capital
+Thrive Capital
+Yes
+Series C - Twitch
+Series C - Twitch
+—
+Take-Two Interactive Software
+Take-Two Interactive Software
+No
+Series C - Twitch
+Series C - Twitch
+—
+WestSummit Capital
+WestSummit Capital
+No
+Series C - Twitch
+Series C - Twitch
+David Lam, Jason Lin, Kelly Liu, Raymond Yang
+Alsop Louie Partners
+Alsop Louie Partners
+No
+Series C - Twitch
+Series C - Twitch
+—
+Bessemer Venture Partners
+Bessemer Venture Partners
+No
+Series C - Twitch
+Series C - Twitch
+Ethan Kurzweil
+Bessemer Venture Partners
+Bessemer Venture Partners
+Yes
+Series B - Twitch
+Series B - Twitch
+Ethan Kurzweil
+Draper Associates
+Draper Associates
+—
+Series B - Twitch
+Series B - Twitch
+—
+Alsop Louie Partners
+Alsop Louie Partners
+—
+Series B - Twitch
+Series B - Twitch
+—
+Acquisitions
+Number of Acquisitions
+3
+Twitch acquired 3 organizations. Twitch most recent was ClipMine on Aug 17, 2017.
+Which types of acquisition does this organization make most frequently?
+Show
+Acquired Organization Name
+
+Announced Date
+
+Price
+
+Transaction Name
+
+ClipMine
+ClipMine
+Aug 17, 2017  —
+ClipMine acquired by Twitch
+ClipMine acquired by Twitch
+Curse
+Curse
+Aug 16, 2016  —
+Curse acquired by Twitch
+Curse acquired by Twitch
+GoodGame
+GoodGame
+Dec 9, 2014 —
+GoodGame acquired by Twitch
+GoodGame acquired by Twitch
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+Private San Francisco Bay Area Companies (Top 10K)
+Private San Francisco Bay Area Companies (Top 10K)
+9,966
+Western US Companies (Top 10K)
+Western US Companies (Top 10K)
+9,846
+Private West Coast Companies (Top 10K)
+Private West Coast Companies (Top 10K)
+9,834
+Draper Associates Portfolio Companies
+Draper Associates Portfolio Companies
+164
+Acquired Social Media Companies
+Acquired Social Media Companies
+913
+Venture Capital Funded Companies (Top 10K)
+Venture Capital Funded Companies (Top 10K)
+9,515
+Bessemer Venture Partners Portfolio Companies
+Bessemer Venture Partners Portfolio Companies
+434
+Massachusetts Institute of Technology - MIT Alumni Founded Companies
+Massachusetts Institute of Technology - MIT Alumni Founded Companies
+2,221
+San Francisco Video Companies
+San Francisco Video Companies
+275
+San Francisco Companies that Exited
+San Francisco Companies that Exited
+1,760
+VIEW ALL
+
+Mobile App Metrics by Apptopia
+Overview
+Ratings
+SDKs
+Monthly usage overview for all apps (iOS & Android)
+App Name
+
+App Store
+
+Monthly Downloads
+
+Daily Active Users
+
+Monthly Active Users
+
+Score Keeper
+Score Keeper
+Google Play — — —
+Impossible 23
+Impossible 23
+Google Play — — —
+Last updated: Jul 31, 2018
+Powered by
+
+
+Website Tech Stack by BuiltWith
+Active Technology
+Twitch is actively using 11 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and SSL by Default.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+69,923,004
+Monthly Visits Growth
+4.88%
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+United States 1%  10.62%  — —
+China 0%  — — —
+United Kingdom  0%  51.68%  — —
+Brazil  0%  9.7%  — —
+Germany 0%  — — —
+Last updated: Sep 14, 2018
+Powered by
+
+
+Patents and Trademarks by IPqwery
+Overview
+The intellectual property of Twitch includes 2 registered patents primarily in the 'Electric Communication Technique' category. Twitch has registered 14 trademarks with the most popular class being 'Scientific and electric apparatus and instruments'.
+UNLOCK MORE PATENTS & TRADEMARKS DATA ❯
+Current Team
+Number of Current Team Members
+38
+Twitch has 38 current team members, including CEO and Founder Emmett Shear.
+Emmett Shear
+Emmett Shear
+CEO and Founder
+Justin Kan
+Justin Kan
+Founder
+Colin Carrier
+Colin Carrier
+Chief Strategy Officer
+Sara Clemens
+Sara Clemens
+COO
+Jonathan Simpson-Bint
+Jonathan Simpson-Bint
+CRO
+Kym Nelson
+Kym Nelson
+SVP Sales
+Khudor Annous
+Khudor Annous
+Head of Marketing & Partnerships
+Mark Weiler
+Mark Weiler
+SVP, Head of Platform & Services
+VIEW ALL
+Past Team
+Number of Past Team Members
+7
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Kevin Lin
+Kevin Lin
+COO 2008  2018
+Christina Nguyen
+Christina Nguyen
+UI/UX Designer  2016  2017
+Anne Lin
+Anne Lin
+4GAMERS(Twitch's agency) - Business Development Director  May 2015  Apr 2016
+Andrew Shifflett
+Andrew Shifflett
+Internet Personality  Jan 2012  Feb 2014
+Kyle Vogt
+Kyle Vogt
+Co-Founder  Jun 2011  Oct 2013
+VIEW ALL
+Events
+Number of Events
+16
+TwitchCon 2018
+TwitchCon 2018
+Organizer
+Oct 26, 2018
+VidCon 2018
+VidCon 2018
+Sponsor
+Jun 20, 2018
+E3 2018
+E3 2018
+Sponsor
+Jun 12, 2018
+OMR Festival 2018
+OMR Festival 2018
+Exhibitor
+Mar 22, 2018
+Lesbians Who Tech London Summit 2017
+Lesbians Who Tech London Summit 2017
+Sponsor
+Nov 10, 2017
+TwitchCon 2017
+TwitchCon 2017
+Sponsor
+Oct 20, 2017
+TwitchCon 2017
+TwitchCon 2017
+Organizer
+Oct 20, 2017
+TwitchCon 2017
+TwitchCon 2017
+Exhibitor
+Oct 20, 2017
+VIEW ALL
+Recent News & Activity
+Date
+Activity
+Sep 22, 2018
+Twitch: Digital Trends — How to sign up for Amazon Prime
+Sep 17, 2018
+Twitch: GameSpot — Overwatch: Free Golden Loot Box For Amazon / Twitch Prime Members
+Sep 14, 2018
+Twitch: TechCrunch — Twitch updates security for its TwitchCon event following the Jacksonville esports shooting
+Sep 13, 2018
+Twitch: TechCrunch — Twitch hires head of diversity and inclusion
+Sep 11, 2018
+Twitch: WinBeta — New Xbox One Twitch app begins testing phase on consoles
+Sep 10, 2018
+Twitch: GameSpot — Free Rainbow Six Siege Gear For Amazon / Twitch Prime Members
+Sep 10, 2018
+Twitch: GameSpot — Pokemon: Free Legendaries For September Now Available, Here's How To Get Them
+Sep 7, 2018
+Twitch: PC World — PCWorld is streaming Destiny 2 on Twitch!
+Sep 5, 2018
+Twitch: GameSpot — 5 Free Games Out Now For Amazon / Twitch Prime Members (September 2018)
+Aug 29, 2018
+Twitch: Pocket Lint — Save £20 on full Amazon Prime membership - offer ends tomorrow!
+VIEW ALL
+Twitter
+TWITCH ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Stripe
+
+Segment
+
+Segment Information Technologies
+
+Reddit
+
+Rappi
+
+Mixpanel
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

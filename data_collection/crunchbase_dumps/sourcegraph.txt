@@ -1,0 +1,332 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+Sourcegraph
+Overview
+Siftery
+Funding Rounds
+Investors
+Related Hubs
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Patents and Trademarks by IPqwery
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Total Funding Amount
+$20M
+CB Rank (Company)
+3,790
+Sourcegraph
+Sourcegraph
+Sourcegraph is creating the best way to read and understand code.
+San Francisco, California, United States
+Categories
+Developer Tools, Enterprise Software, Software
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+2013
+Founders
+Beyang Liu, Quinn Slack
+Operating Status
+Active
+Funding Status
+Early Stage Venture
+Last Funding Type
+Series A
+Number of Employees
+11-50
+IPO Status
+Private
+Company Type
+For Profit
+Website
+sourcegraph.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+hi@sourcegraph.com
+Phone Number
+650-332-2551
+Sourcegraph helps development teams search, review, and edit code so they can ship better software faster. Companies all over the world use Sourcegraph to search code across all their repositories and code hosts and get code review and collaboration in their developers' editors. The company is headquartered in San Francisco, CA and is backed...
+
+Read More
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Funding Rounds
+Number of Funding Rounds
+1
+Total Funding Amount
+$20M
+Sourcegraph raised a total of $20M in funding in its only round. The latest funding came from a Series A round on Oct 6, 2017.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Oct 6, 2017
+Series A - Sourcegraph
+Series A - Sourcegraph
+2 $20M  Goldcrest Capital, Redpoint
+Investors
+Number of Lead Investors
+2
+Number of Investors
+2
+Sourcegraph is funded by 2 investors. Goldcrest Capital and Redpoint are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Goldcrest Capital
+Goldcrest Capital
+Yes
+Series A - Sourcegraph
+Series A - Sourcegraph
+Daniel Friedland
+Redpoint
+Redpoint
+Yes
+Series A - Sourcegraph
+Series A - Sourcegraph
+Scott Raney
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+Software Companies (Top 10K)
+Software Companies (Top 10K)
+9,986
+San Francisco Enterprise Software Companies
+San Francisco Enterprise Software Companies
+725
+San Francisco Bay Area Software Companies with Early Stage Venture Funding
+San Francisco Bay Area Software Companies with Early Stage Venture Funding
+384
+Developer Tools Companies
+Developer Tools Companies
+2,653
+Western US Startups Founded in 2013
+Western US Startups Founded in 2013
+1,409
+San Francisco Software Companies
+San Francisco Software Companies
+1,484
+United States Startups (Top 10K)
+United States Startups (Top 10K)
+9,928
+San Francisco Bay Area Startups Founded in 2013
+San Francisco Bay Area Startups Founded in 2013
+822
+Western US Software Companies
+Western US Software Companies
+9,387
+United States Software Companies (Top 10K)
+United States Software Companies (Top 10K)
+9,993
+VIEW ALL
+
+Website Tech Stack by BuiltWith
+Active Technology
+Sourcegraph is actively using 25 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and Mobile Non Scaleable Content.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+89,557
+Monthly Visits Growth
+2.35%
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+China 27% -20.78% — —
+United States 21% 41.64%  — —
+Germany 8%  -2.99%  — —
+Brazil  2%  — — —
+United Kingdom  2%  — — —
+Last updated: Sep 14, 2018
+Powered by
+
+
+Patents and Trademarks by IPqwery
+Overview
+Sourcegraph has 1 registered patent in the 'Computing; Calculating' category. Sourcegraph has registered 4 trademarks with the most popular class being 'Scientific and technological services'.
+UNLOCK MORE PATENTS & TRADEMARKS DATA ❯
+Current Team
+Number of Current Team Members
+4
+Sourcegraph has 4 current team members, including CEO & Co-founder Quinn Slack.
+Quinn Slack
+Quinn Slack
+CEO & Co-founder
+Beyang Liu
+Beyang Liu
+CTO & Co-founder
+James McGillicuddy
+James McGillicuddy
+COO
+Matt King
+Matt King
+Growth
+Board Members and Advisors
+Number of Board Members / Advisors
+3
+Scott Raney
+Scott Raney
+Board Member
+John Vrionis
+John Vrionis
+Board Member
+Jul 1, 2013
+Daniel Friedland
+Daniel Friedland
+Board Member
+May 1, 2015
+Past Team
+Number of Past Team Members
+2
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Rich Taylor
+Rich Taylor
+VP of Marketing Nov 16, 2016  Jan 2, 2017
+John Luttig
+John Luttig
+Software Developer  Jan 2016  Jun 2016
+Events
+Number of Events
+1
+All Things Open
+All Things Open
+Sponsor
+Oct 23, 2017
+Recent News & Activity
+Date
+Activity
+Aug 29, 2018
+Sourcegraph: sourcegraph.com — GopherCon 2018 - 5 Mistakes C/C++ Devs make writing Go
+Oct 6, 2017
+Sourcegraph raised $20,000,000 / Series A from Goldcrest Capital and Redpoint
+Jun 15, 2016
+Sourcegraph: Susan Hall — Sourcegraph Aims to be ‘Google for Code’
+Jun 15, 2016
+Sourcegraph: Matthew Sprague — Code usage examples in your editor, as you type
+May 30, 2016
+Sourcegraph: Sourcegraph — Toward a URL for every function in the world
+Mar 29, 2016
+Sourcegraph: Wired News — One Startup’s Heretical Plan to Turn Open Source Code Into Cash
+Jun 11, 2015
+Sourcegraph: TechCrunch — Atlassian Opens Its Bitbucket Code Management Service To Third-Party Extensions
+Twitter
+
+SOURCEGRAPH ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Zenefits
+
+Weebly
+
+Twitch
+
+Stripe
+
+Segment
+
+Segment Information Technologies
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

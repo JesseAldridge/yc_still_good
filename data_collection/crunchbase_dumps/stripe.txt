@@ -1,0 +1,647 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+Stripe
+Overview
+Siftery
+Funding Rounds
+Investors
+Acquisitions
+Related Hubs
+Company Tech Stack by Siftery
+Mobile App Metrics by Apptopia
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Patents and Trademarks by IPqwery
+Competitors & Revenue by Owler
+Investments
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Number of Acquisitions
+7
+Number of Investments
+5
+Stripe
+Stripe
+Stripe provides a set of unified APIs and tools that instantly enable businesses to accept and manage online payments.
+San Francisco, California, United States
+Categories
+Credit Cards, Developer APIs, Internet, Payments, SaaS, Software
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+2010
+Founders
+John Collison, Patrick Collison
+Operating Status
+Active
+Funding Status
+Late Stage Venture
+Last Funding Type
+Series E
+Number of Employees
+1001-5000
+Legal Name
+Stripe, Inc.
+Hub Tags
+Unicorn
+IPO Status
+Private
+Company Type
+For Profit
+Website
+stripe.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+support@stripe.com
+Phone Number
+(650)427-9276
+Stripe is the best way to accept payments online. Stripe aims to expand internet commerce by making it easy to process transactions and manage an online business.
+
+Stripe now processes billions of dollars a year for thousands of businesses, from newly-launched start-ups to Fortune 500 companies. Since Stripe powers so many new businesses, it's...
+
+Read More
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Funding Rounds
+Number of Funding Rounds
+9
+Total Funding Amount
+$685M
+Stripe raised a total of $685M in funding over 9 rounds. The latest funding came from a Series E round on Sep 27, 2018.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Sep 27, 2018
+Series E - Stripe
+Series E - Stripe
+5 $245M Tiger Global Management
+Nov 25, 2016
+Series D - Stripe
+Series D - Stripe
+3 $150M CapitalG, General Catalyst
+Jul 31, 2015
+Series C - Stripe
+Series C - Stripe
+7 $100M —
+Dec 2, 2014
+Series C - Stripe
+Series C - Stripe
+7 $70M  Thrive Capital
+Jan 22, 2014
+Series C - Stripe
+Series C - Stripe
+4 $80M  Founders Fund
+Jul 9, 2012
+Series B - Stripe
+Series B - Stripe
+9 $20M  General Catalyst
+Feb 9, 2012
+Series A - Stripe
+Series A - Stripe
+1 $18M  Sequoia Capital
+Mar 28, 2011
+Seed Round - Stripe
+Seed Round - Stripe
+4 $2M —
+Aug 2, 2010
+Seed Round - Stripe
+Seed Round - Stripe
+1 — Y Combinator
+Investors
+Number of Lead Investors
+7
+Number of Investors
+27
+Stripe is funded by 27 investors. DST Global and Tiger Global Management are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+DST Global
+DST Global
+No
+Series E - Stripe
+Series E - Stripe
+—
+Tiger Global Management
+Tiger Global Management
+Yes
+Series E - Stripe
+Series E - Stripe
+Lee Fixel
+Sequoia Capital
+Sequoia Capital
+No
+Series E - Stripe
+Series E - Stripe
+—
+Kleiner Perkins
+Kleiner Perkins
+No
+Series E - Stripe
+Series E - Stripe
+—
+Thrive Capital
+Thrive Capital
+No
+Series E - Stripe
+Series E - Stripe
+—
+CapitalG
+CapitalG
+Yes
+Series D - Stripe
+Series D - Stripe
+—
+General Catalyst
+General Catalyst
+Yes
+Series D - Stripe
+Series D - Stripe
+Hemant Taneja
+Sequoia Capital
+Sequoia Capital
+No
+Series D - Stripe
+Series D - Stripe
+Michael Moritz
+Sequoia Capital
+Sequoia Capital
+No
+Series C - Stripe
+Series C - Stripe
+Michael Moritz
+Square Peg Capital
+Square Peg Capital
+No
+Series C - Stripe
+Series C - Stripe
+—
+VIEW ALL
+Acquisitions
+Number of Acquisitions
+7
+Stripe acquired 7 organizations. Stripe most recent was Index on Mar 8, 2018.
+Which types of acquisition does this organization make most frequently?
+Show
+Acquired Organization Name
+
+Announced Date
+
+Price
+
+Transaction Name
+
+Index
+Index
+Mar 8, 2018 —
+Index acquired by Stripe
+Index acquired by Stripe
+Payable
+Payable
+Jul 26, 2017  —
+Payable acquired by Stripe
+Payable acquired by Stripe
+Indie Hackers
+Indie Hackers
+Apr 11, 2017  —
+Indie Hackers acquired by Stripe
+Indie Hackers acquired by Stripe
+Teapot
+Teapot
+Oct 25, 2016  —
+Teapot acquired by Stripe
+Teapot acquired by Stripe
+RunKit
+RunKit
+Sep 13, 2016  —
+RunKit acquired by Stripe
+RunKit acquired by Stripe
+TOTEMS
+TOTEMS
+Feb 15, 2015  —
+TOTEMS acquired by Stripe
+TOTEMS acquired by Stripe
+Kickoff
+Kickoff
+Mar 12, 2013  —
+Kickoff acquired by Stripe
+Kickoff acquired by Stripe
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+Private San Francisco Bay Area Companies (Top 10K)
+Private San Francisco Bay Area Companies (Top 10K)
+9,966
+Corporate VC Funded Companies
+Corporate VC Funded Companies
+7,814
+Western US Companies (Top 10K)
+Western US Companies (Top 10K)
+9,846
+United States SaaS Companies
+United States SaaS Companies
+5,147
+Payments Startups
+Payments Startups
+730
+West Coast Software Companies
+West Coast Software Companies
+7,659
+Private West Coast Companies (Top 10K)
+Private West Coast Companies (Top 10K)
+9,834
+San Francisco Bay Area Internet Companies
+San Francisco Bay Area Internet Companies
+1,617
+Developer APIs Startups
+Developer APIs Startups
+267
+Venture Capital Funded Companies (Top 10K)
+Venture Capital Funded Companies (Top 10K)
+9,515
+VIEW ALL
+
+Company Tech Stack by Siftery
+Active Products
+Stripe uses 106 technology products and services including Google Analytics, G Suite (formerly Google Apps for Work), and Google Tag Manager.
+UNLOCK MORE TECHNOLOGIES DATA ❯
+
+Mobile App Metrics by Apptopia
+Overview
+Ratings
+SDKs
+Total Downloads
+20,300
+Total Downloads Growth
+0.5%
+Stripe has 20,300 monthly app downloads. The most popular apps downloaded are Stripe Dashboard.
+Monthly usage overview for all apps (iOS & Android)
+App Name
+
+App Store
+
+Monthly Downloads
+
+Daily Active Users
+
+Monthly Active Users
+
+Stripe Dashboard
+Stripe Dashboard
+itunes  20,300  — —
+Last updated: Jul 31, 2018
+Powered by
+
+
+Website Tech Stack by BuiltWith
+Active Technology
+Stripe is actively using 42 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and SSL by Default.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+14,677,995
+Monthly Visits Growth
+3.82%
+Stripe is ranked 3,524 among websites globally based on its 14,677,995 monthly web visitors.
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+United States 23% -7.21%  1,796 0.5%
+United Kingdom  7%  8.06% 1,346 -10.86%
+France  4%  13.44%  2,111 -12.59%
+Australia 2%  -10.23% 1,268 9.97%
+Canada  2%  2.42% 2,036 -6.65%
+Last updated: Sep 14, 2018
+Powered by
+
+
+Patents and Trademarks by IPqwery
+Overview
+The intellectual property of Stripe includes 13 registered patents primarily in the 'Computing; Calculating' category. Stripe has registered 2 trademarks with the most popular class being 'Scientific and electric apparatus and instruments'.
+UNLOCK MORE PATENTS & TRADEMARKS DATA ❯
+
+Competitors & Revenue by Owler
+Revenue
+$540M
+Number of Competitors
+6
+Stripe has $540M in revenue annually. Stripe competes with WePay, Fidelity Payment Services, and Vantiq.
+Number of Employees
+895
+CEO Approval Rating
+72
+Competitors and Revenue
+WePay
+WePay
+$5M
+WePay is a provider of integrated payment processing solutions for online platforms and marketplaces.
+Fidelity Payment Services
+Fidelity Payment Services
+$11M
+Fidelity Payment Services is a provider of payment processing and credit card merchant services for retail, food and real estate sectors.
+Vantiq
+Vantiq
+$2M
+VANTIQVANTIQ develops an integrated platform that enables users to develop, deploy and run real-time enterprise applications.
+Last updated: Sep 7, 2018
+Powered by
+
+Investments
+Number of Investments
+5
+Number of Lead Investments
+3
+How many investments has this organization made over time?
+Show
+Which categories has this organization most actively invested in?
+Show
+Announced Date
+
+Organization Name
+
+Lead Investor
+
+Funding Round
+
+Money Raised
+
+Aug 28, 2018
+Paystack
+Paystack
+Yes
+Series A - Paystack
+Series A - Paystack
+$10.2M
+May 31, 2018
+Polybit
+Polybit
+Yes
+Corporate Round - Polybit
+Corporate Round - Polybit
+$2M
+May 31, 2018
+Standard Library
+Standard Library
+Yes
+Corporate Round - Standard Library
+Corporate Round - Standard Library
+$2M
+Nov 6, 2017
+Monzo
+Monzo
+—
+Series D - Monzo
+Series D - Monzo
+£71M
+Aug 1, 2014
+Stellar
+Stellar
+—
+Seed Round - Stellar
+Seed Round - Stellar
+$3M
+Current Team
+Number of Current Team Members
+51
+Stripe has 51 current team members, including Chief Business Officer Billy Alvarado.
+Billy Alvarado
+Billy Alvarado
+Chief Business Officer
+Claire Hughes Johnson
+Claire Hughes Johnson
+Chief Operating Officer
+Will Gaybrick
+Will Gaybrick
+Chief Financial Officer
+Kelly Sims
+Kelly Sims
+Head of communications
+Andy Knosp
+Andy Knosp
+Head of Field Engineering
+Romain Huet
+Romain Huet
+Head of Global Developer Relations
+James Allgrove
+James Allgrove
+Head of Growth, UK
+Felix Huber
+Felix Huber
+Head of Northern Europe
+VIEW ALL
+Board Members and Advisors
+Number of Board Members / Advisors
+4
+Patrick Collison
+Patrick Collison
+Board Member
+John Collison
+John Collison
+Board Member
+Jonathan Chadwick
+Jonathan Chadwick
+Board Member
+Michelle Wilson
+Michelle Wilson
+Board Member
+Sep 2018
+Past Team
+Number of Past Team Members
+22
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Anna Chang
+Anna Chang
+Vendor Management Jan 2017  May 2018
+Steve Almeida
+Steve Almeida
+Program Manager - Risk & Compliance Aug 2017  Mar 2018
+Tom Karlo
+Tom Karlo
+Product Manager, Payment Methods & Payments Dashboard Sep 2017  2018
+Brian Sze
+Brian Sze
+Support Tools 2016  2017
+Jeremy Kitchen
+Jeremy Kitchen
+Systems Engineer  2015  2017
+VIEW ALL
+Events
+Number of Events
+17
+Grace Hopper Celebration of Women in Computing 2018
+Grace Hopper Celebration of Women in Computing 2018
+Sponsor
+Sep 26, 2018
+GeekWire Cloud Tech Summit 2018
+GeekWire Cloud Tech Summit 2018
+Sponsor
+Jun 27, 2018
+Zero-In Conference 2018
+Zero-In Conference 2018
+Sponsor
+Apr 19, 2018
+Lesbians Who Tech 2018
+Lesbians Who Tech 2018
+Sponsor
+Mar 1, 2018
+AfroTech Conference 2017
+AfroTech Conference 2017
+Sponsor
+Nov 10, 2017
+Lesbians Who Tech London Summit 2017
+Lesbians Who Tech London Summit 2017
+Sponsor
+Nov 10, 2017
+TechDay 2017
+TechDay 2017
+Sponsor
+Oct 27, 2017
+Grace Hopper Celebration of Women in Computing 2017
+Grace Hopper Celebration of Women in Computing 2017
+Sponsor
+Oct 4, 2017
+VIEW ALL
+Recent News & Activity
+Date
+Activity
+Sep 27, 2018
+Stripe raised $245,000,000 / Series E from DST Global and 4 other investors
+Sep 26, 2018
+Stripe: TechCrunch — Stripe is now valued at $20B after raising another $245M led by Tiger Global
+Sep 24, 2018
+Stripe: TechCrunch — Stripe is testing cash advances, following Square and PayPal’s moves into business finance
+Sep 17, 2018
+Stripe: Recode — Stripe built a payments powerhouse by focusing on e-commerce. Now it’s following its customers into bricks and mortar.
+Sep 17, 2018
+Stripe: TechCrunch — Stripe moves into brick-and-mortar payments with Terminal
+Sep 12, 2018
+Stripe: TechCrunch — Spearhead is transforming founders into angel investors
+Aug 28, 2018
+Paystack raised $10,205,002 / Series A from Stripe and 3 other investors
+Aug 28, 2018
+Stripe: TechCrunch — Paystack, with ambitions to become the Stripe of Africa, raises $8M from Visa, Tencent… and Stripe itself
+Aug 22, 2018
+Stripe: TechCrunch — Nylas scores $16M Series B to expand email API tool
+Aug 9, 2018
+Stripe: TechCrunch — Anchor launches Listener Support feature to help podcasters get paid
+VIEW ALL
+Twitter
+STRIPE ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Segment
+
+Segment Information Technologies
+
+Reddit
+
+Rappi
+
+Mixpanel
+
+Gusto
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

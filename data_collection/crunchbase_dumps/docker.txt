@@ -1,0 +1,570 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+Docker
+Overview
+Unlock Charts
+Funding Rounds
+Investors
+Acquisitions
+Related Hubs
+Company Tech Stack by Siftery
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Patents and Trademarks by IPqwery
+Competitors & Revenue by Owler
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Number of Acquisitions
+8
+Total Funding Amount
+$242.8M
+Docker
+Docker
+Docker is a platform for distributed applications that allows developers and sysadmins to build, ship, and run distributed applications.
+San Francisco, California, United States
+Categories
+Cloud Computing, Enterprise Software, Open Source, SaaS
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+Jan 1, 2010
+Founders
+Solomon Hykes
+Operating Status
+Active
+Funding Status
+Late Stage Venture
+Last Funding Type
+Series E
+Number of Employees
+101-250
+Also Known As
+dotCloud, Docker Inc.
+Hub Tags
+Unicorn
+IPO Status
+Private
+Company Type
+For Profit
+Website
+www.docker.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+info@docker.com
+Phone Number
+(415) 941-0376
+Docker is a company behind the Docker open source platform, and is the chief sponsor of the Docker ecosystem. Docker is an open platform for developers and system administrators to build, ship and run distributed applications. With Docker, IT organizations shrink application delivery from months to minutes, frictionlessly move workloads between...
+
+Read More
+Which funding rounds raised the most money?
+
+Funding Rounds
+Number of Funding Rounds
+9
+Total Funding Amount
+$242.8M
+Docker raised a total of $242.8M in funding over 9 rounds. The latest funding came from a Series E round on Oct 6, 2017.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Oct 6, 2017
+Series E - Docker
+Series E - Docker
+1 $61.8M  —
+May 5, 2017
+Secondary Market - Docker
+Secondary Market - Docker
+1 — —
+Nov 9, 2015
+Series D - Docker
+Series D - Docker
+5 $18M  —
+Apr 14, 2015
+Series D - Docker
+Series D - Docker
+12  $95M  Insight Venture Partners
+Sep 16, 2014
+Series C - Docker
+Series C - Docker
+5 $40M  Sequoia Capital
+Jan 21, 2014
+Series B - Docker
+Series B - Docker
+5 $15M  Greylock Partners
+Mar 15, 2011
+Series A - Docker
+Series A - Docker
+1 $12M  —
+Feb 28, 2011
+Angel Round - Docker
+Angel Round - Docker
+9 $800K —
+Sep 1, 2010
+Seed Round - Docker
+Seed Round - Docker
+2 $120K —
+Investors
+Number of Lead Investors
+3
+Number of Investors
+25
+Docker is funded by 25 investors. Base Partners and SharesPost Investment Management are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Base Partners
+Base Partners
+No
+Series E - Docker
+Series E - Docker
+—
+SharesPost Investment Management
+SharesPost Investment Management
+No
+Secondary Market - Docker
+Secondary Market - Docker
+Sven Weber
+Trinity Ventures
+Trinity Ventures
+No
+Series D - Docker
+Series D - Docker
+Daniel Scholnick
+Greylock Partners
+Greylock Partners
+No
+Series D - Docker
+Series D - Docker
+Jerry Chen
+Insight Venture Partners
+Insight Venture Partners
+No
+Series D - Docker
+Series D - Docker
+Jerry Murdock
+Sequoia Capital
+Sequoia Capital
+No
+Series D - Docker
+Series D - Docker
+Matt Miller, William Coughran
+Ignition Partners
+Ignition Partners
+No
+Series D - Docker
+Series D - Docker
+Frank Artale
+Lightspeed Venture Partners
+Lightspeed Venture Partners
+No
+Series D - Docker
+Series D - Docker
+—
+Northern Trust
+Northern Trust
+No
+Series D - Docker
+Series D - Docker
+—
+Coatue Management
+Coatue Management
+No
+Series D - Docker
+Series D - Docker
+—
+VIEW ALL
+Acquisitions
+Number of Acquisitions
+8
+Docker acquired 8 organizations. Docker most recent was Infinit on Dec 6, 2016.
+Which types of acquisition does this organization make most frequently?
+Show
+Acquired Organization Name
+
+Announced Date
+
+Price
+
+Transaction Name
+
+Infinit
+Infinit
+Dec 6, 2016 —
+Infinit acquired by Docker
+Infinit acquired by Docker
+Conductant
+Conductant
+Mar 3, 2016 —
+Conductant acquired by Docker
+Conductant acquired by Docker
+Unikernel Systems
+Unikernel Systems
+Jan 21, 2016  —
+Unikernel Systems acquired by Docker
+Unikernel Systems acquired by Docker
+Tutum
+Tutum
+Oct 21, 2015  —
+Tutum acquired by Docker
+Tutum acquired by Docker
+Kitematic
+Kitematic
+Mar 12, 2015  —
+Kitematic acquired by Docker
+Kitematic acquired by Docker
+SocketPlane
+SocketPlane
+Mar 4, 2015 —
+SocketPlane acquired by Docker
+SocketPlane acquired by Docker
+Koality
+Koality
+Oct 7, 2014 —
+Koality acquired by Docker
+Koality acquired by Docker
+Orchard
+Orchard
+Jul 23, 2014  —
+Orchard acquired by Docker
+Orchard acquired by Docker
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+Western US Cloud Computing Companies
+Western US Cloud Computing Companies
+1,067
+West Coast Companies (Top 10K)
+West Coast Companies (Top 10K)
+9,943
+San Francisco Bay Area Startups Founded in 2010
+San Francisco Bay Area Startups Founded in 2010
+380
+Brainchild Holdings Portfolio Companies
+Brainchild Holdings Portfolio Companies
+85
+Sequoia Capital Portfolio Companies
+Sequoia Capital Portfolio Companies
+632
+Cloud Computing Companies with Late Stage Venture Funding
+Cloud Computing Companies with Late Stage Venture Funding
+110
+West Coast Late Stage Companies
+West Coast Late Stage Companies
+1,036
+San Francisco Bay Area Unicorn Startups
+San Francisco Bay Area Unicorn Startups
+67
+Investment Bank Funded Companies
+Investment Bank Funded Companies
+4,354
+United States Late Stage Companies
+United States Late Stage Companies
+1,895
+VIEW ALL
+
+Company Tech Stack by Siftery
+Active Products
+Docker uses 101 technology products and services including Google Analytics, G Suite (formerly Google Apps for Work), and Apache Web Server.
+UNLOCK MORE TECHNOLOGIES DATA ❯
+
+Website Tech Stack by BuiltWith
+Active Technology
+Docker is actively using 97 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and Google Analytics.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+14,855,948
+Monthly Visits Growth
+6.27%
+Docker is ranked 2,559 among websites globally based on its 14,855,948 monthly web visitors.
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+China 13% 1%  1,233 -6.16%
+United States 12% -2.45%  3,270 1.65%
+Germany 4%  10.61%  2,209 -11.92%
+United Kingdom  3%  4.09% 2,444 0.74%
+Brazil  3%  — 2,625 —
+Last updated: Sep 14, 2018
+Powered by
+
+
+Patents and Trademarks by IPqwery
+Overview
+Docker has registered 14 trademarks with the most popular class being 'Scientific and electric apparatus and instruments'.
+UNLOCK MORE PATENTS & TRADEMARKS DATA ❯
+
+Competitors & Revenue by Owler
+Revenue
+$9.1M
+Number of Competitors
+9
+Docker has $9.1M in revenue annually. Docker competes with CoreOS, Joyent, and OpenShift.
+Number of Employees
+389
+CEO Approval Rating
+71
+Competitors and Revenue
+CoreOS
+CoreOS
+$2.2M
+CoreOS provides warehouse-scale computing tools for building, storing and securely accessing linux containers.
+Joyent
+Joyent
+$97.9M
+Joyent is a container-native infrastructure company that delivers application virtualization and cloud computing software solutions.
+OpenShift
+OpenShift
+$3.2M
+Openshift is a Platform-as-a-Service that lets developers to develop, host, scale and deliver applications in the cloud.
+Last updated: Sep 7, 2018
+Powered by
+
+Current Team
+Number of Current Team Members
+111
+Docker has 111 current team members, including Chairman and CEO Steven Singh.
+Steven Singh
+Steven Singh
+Chairman and CEO
+Mike Gupta
+Mike Gupta
+CFO
+Scott Johnston
+Scott Johnston
+Chief Product Officer
+David Messina
+David Messina
+Chief Marketing Officer
+Marianna Tessel
+Marianna Tessel
+SVP Engineering
+Patrick Chanezon
+Patrick Chanezon
+Chief Developer Advocate
+Chris Borkenhagen
+Chris Borkenhagen
+CIO
+Eric Bardin
+Eric Bardin
+SVP Finance and Business Operations
+VIEW ALL
+Board Members and Advisors
+Number of Board Members / Advisors
+17
+Paul Meijer
+Paul Meijer
+Advisor
+Greg Kroah-Hartman
+Greg Kroah-Hartman
+Advisor
+Jerry Yang
+Jerry Yang
+Board Member
+Jerry Murdock
+Jerry Murdock
+Board Observer
+2014
+James Turnbull
+James Turnbull
+Advisor
+2014
+Ashvin Patel
+Ashvin Patel
+Advisor
+James Turnbull
+James Turnbull
+Advisor
+Chris Sacca
+Chris Sacca
+Advisor
+VIEW ALL
+Past Team
+Number of Past Team Members
+16
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Kyle Squizzato
+Kyle Squizzato
+Support Engineer  Apr 2017  Feb 2018
+Bill Farner
+Bill Farner
+Member of Technical Staff Feb 2016  Mar 2017
+Ben Golub
+Ben Golub
+CEO — 2017
+Ben Firshman
+Ben Firshman
+Director of Product Management  Jun 2014  Dec 2016
+Sean Li
+Sean Li
+Product & Design Lead Nov 2014  Nov 2016
+VIEW ALL
+Events
+Number of Events
+49
+AWS re:Invent 2018
+AWS re:Invent 2018
+Sponsor
+Nov 26, 2018
+Microsoft Ignite 2018
+Microsoft Ignite 2018
+Exhibitor
+Sep 24, 2018
+VMworld 2018
+VMworld 2018
+Exhibitor
+Aug 26, 2018
+VMworld US 2018
+VMworld US 2018
+Exhibitor
+Aug 26, 2018
+HPE Discover 2018
+HPE Discover 2018
+Sponsor
+Jun 19, 2018
+Ebooks publishing Services
+Ebooks publishing Services
+Organizer
+May 31, 2018
+GOTO Chicago 2018
+GOTO Chicago 2018
+Sponsor
+Apr 24, 2018
+IBM Think 2018
+IBM Think 2018
+Sponsor
+Mar 19, 2018
+VIEW ALL
+Recent News & Activity
+Date
+Activity
+Aug 24, 2018
+Docker: Net Security — Threat Stack announces containerized agent to enable container deployment at scale
+Aug 22, 2018
+Docker: Amazon Web Services (AWS) — Use Amazon DynamoDB Local More Easily with the New Docker Image
+Jul 19, 2018
+Docker: New Castle Herald — Dockers coach backs Bennell for AFL 2019
+Jul 15, 2018
+Docker: ABC Net — Nic Naitanui injured in West Coast Eagles AFL win, Sydney Swans and Fremantle both triumph
+Jul 13, 2018
+Docker: Info World — Deep container inspection: What the Docker Hub Minor virus and XcodeGhost breach can teach about containers
+Jul 11, 2018
+Docker: Info World — Docker tutorial: Get started with Docker Hub
+Jun 22, 2018
+Docker: New Castle Herald — Black Diamond AFL: Lake Macquarie Dockers vote to stay in top-flight competition
+Jun 18, 2018
+Docker: SDX Central — Docker’s Name and Operations Could Appeal to Microsoft, Red Hat, VMware
+Jun 18, 2018
+Docker: ZD Net — Docker Hubに仮想通貨を発掘する不正なコンテナ--Kubernetes悪用の恐れも
+Jun 16, 2018
+Docker: Illawara Mercury — Rare win for Dockers away from Perth
+VIEW ALL
+Twitter
+DOCKER ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Cruise Automation
+
+Coinbase
+
+Instacart
+
+Airbnb
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

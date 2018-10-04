@@ -1,0 +1,496 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+Mixpanel
+Overview
+Siftery
+Funding Rounds
+Investors
+Related Hubs
+Company Tech Stack by Siftery
+Mobile App Metrics by Apptopia
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Patents and Trademarks by IPqwery
+Competitors & Revenue by Owler
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Total Funding Amount
+$77M
+CB Rank (Company)
+1,417
+Mixpanel
+Mixpanel
+Mixpanel is an analytics platform for the mobile and web, supporting businesses to study consumer behavior.
+San Francisco, California, United States
+Categories
+Analytics, Mobile, SaaS, Web Browsers
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+Jun 20, 2009
+Founders
+Suhail Doshi, Tim Trefren
+Operating Status
+Active
+Funding Status
+Early Stage Venture
+Last Funding Type
+Series B
+Number of Employees
+251-500
+Also Known As
+Mixpanel, Inc.
+IPO Status
+Private
+Website
+www.mixpanel.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+support@mixpanel.com
+Phone Number
+(888) 510-2370
+Mixpanel is the most advanced analytics platform for mobile & web. It helps businesses grow by helping them understand how their users behave and use their products by tracking actions people take rather than page views. Mixpanel's mission is to help the world learn from its data.
+
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Funding Rounds
+Number of Funding Rounds
+5
+Total Funding Amount
+$77M
+Mixpanel raised a total of $77M in funding over 5 rounds. The latest funding came from a Series B round on Dec 18, 2014.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Dec 18, 2014
+Series B - Mixpanel
+Series B - Mixpanel
+1 $65M  Andreessen Horowitz
+May 10, 2012
+Series A - Mixpanel
+Series A - Mixpanel
+4 $10.3M  Andreessen Horowitz
+May 27, 2011
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+4 $1.3M —
+Feb 11, 2010
+Angel Round - Mixpanel
+Angel Round - Mixpanel
+2 $500K —
+Jul 1, 2009
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+2 $15K  Sequoia Capital
+Investors
+Number of Lead Investors
+2
+Number of Investors
+8
+Mixpanel is funded by 8 investors. Andreessen Horowitz and Andreessen Horowitz are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Andreessen Horowitz
+Andreessen Horowitz
+Yes
+Series B - Mixpanel
+Series B - Mixpanel
+Peter Levine
+Andreessen Horowitz
+Andreessen Horowitz
+Yes
+Series A - Mixpanel
+Series A - Mixpanel
+Peter Levine
+David Sacks
+David Sacks
+—
+Series A - Mixpanel
+Series A - Mixpanel
+—
+Marc Benioff
+Marc Benioff
+—
+Series A - Mixpanel
+Series A - Mixpanel
+—
+Max Levchin
+Max Levchin
+—
+Series A - Mixpanel
+Series A - Mixpanel
+—
+Sequoia Capital
+Sequoia Capital
+—
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+—
+Keith Rabois
+Keith Rabois
+—
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+—
+Max Levchin
+Max Levchin
+—
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+—
+Michael Birch
+Michael Birch
+—
+Seed Round - Mixpanel
+Seed Round - Mixpanel
+—
+Michael Birch
+Michael Birch
+—
+Angel Round - Mixpanel
+Angel Round - Mixpanel
+—
+VIEW ALL
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+Western US Companies (Top 10K)
+Western US Companies (Top 10K)
+9,846
+United States SaaS Companies
+United States SaaS Companies
+5,147
+Private West Coast Companies (Top 10K)
+Private West Coast Companies (Top 10K)
+9,834
+San Francisco Bay Area Startups Founded in 2009
+San Francisco Bay Area Startups Founded in 2009
+225
+United States Mobile Companies with Early Stage Venture Funding
+United States Mobile Companies with Early Stage Venture Funding
+514
+Venture Capital Funded Companies (Top 10K)
+Venture Capital Funded Companies (Top 10K)
+9,515
+San Francisco Early Stage Companies
+San Francisco Early Stage Companies
+917
+West Coast Startups (Top 10K)
+West Coast Startups (Top 10K)
+9,925
+Web Browsers Companies
+Web Browsers Companies
+883
+United States Startups Founded in 2009
+United States Startups Founded in 2009
+956
+VIEW ALL
+
+Company Tech Stack by Siftery
+Active Products
+Mixpanel uses 63 technology products and services including Google Analytics, WordPress, and G Suite (formerly Google Apps for Work).
+UNLOCK MORE TECHNOLOGIES DATA ❯
+
+Mobile App Metrics by Apptopia
+Overview
+Ratings
+SDKs
+Total Downloads
+1,179
+Total Downloads Growth
+17.43%
+Mixpanel has 1,179 monthly app downloads. The most popular apps downloaded are Mixpanel.
+Monthly usage overview for all apps (iOS & Android)
+App Name
+
+App Store
+
+Monthly Downloads
+
+Daily Active Users
+
+Monthly Active Users
+
+Mixpanel
+Mixpanel
+Google Play, itunes 1,179 — —
+Last updated: Jul 31, 2018
+Powered by
+
+
+Website Tech Stack by BuiltWith
+Active Technology
+Mixpanel is actively using 56 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and Google Analytics.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+1,358,507
+Monthly Visits Growth
+5.97%
+Mixpanel is ranked 36,735 among websites globally based on its 1,358,507 monthly web visitors.
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+United States 23% 0.47% 21,316  1.03%
+Brazil  6%  14.72%  13,557  -10.15%
+Germany 3%  — 23,820  —
+France  3%  -23.24% 25,414  34.24%
+India 3%  — 24,142  —
+Last updated: Sep 14, 2018
+Powered by
+
+
+Patents and Trademarks by IPqwery
+Overview
+Mixpanel has registered 4 trademarks with the most popular class being 'Scientific and electric apparatus and instruments'.
+UNLOCK MORE PATENTS & TRADEMARKS DATA ❯
+
+Competitors & Revenue by Owler
+Revenue
+$100M
+Number of Competitors
+3
+Mixpanel has $100M in revenue annually. Mixpanel competes with Amplitude, Localytics, and Pendo.
+Number of Employees
+300
+CEO Approval Rating
+79
+Competitors and Revenue
+Amplitude
+Amplitude
+$28.9M
+Amplitude is a mobile and web analytics platform that provides data, statistics, user insights via data science tools for decision making.
+Localytics
+Localytics
+$21.4M
+Localytics is a mobile engagement platform that provides analytics and marketing solutions for web and mobile applications.
+Pendo
+Pendo
+$2.2M
+Pendo develops a data driven platform that captures user behavior, gathers feedback and provides contextual help inside their applications.
+Last updated: Sep 7, 2018
+Powered by
+
+Current Team
+Number of Current Team Members
+14
+Mixpanel has 14 current team members, including CEO & Co-Founder Suhail Doshi.
+Suhail Doshi
+Suhail Doshi
+CEO & Co-Founder
+Tim Trefren
+Tim Trefren
+Co-Founder
+Aliisa Hodges
+Aliisa Hodges
+Growth Manager
+Avery Fay
+Avery Fay
+Chief Technology Officer
+Adam Carrick
+Adam Carrick
+Head - Market Development
+Dennis Mahoney
+Dennis Mahoney
+Head of Customer Success
+Jenny Finkel
+Jenny Finkel
+Head of Machine Learning
+Misha McPherson
+Misha McPherson
+Senior Director - Worldwide Sales Enablement
+VIEW ALL
+Board Members and Advisors
+Number of Board Members / Advisors
+1
+Peter Levine
+Peter Levine
+Board Member
+Past Team
+Number of Past Team Members
+9
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Stu Aaron
+Stu Aaron
+President and COO Jun 2016  Jul 2017
+Will Paulus
+Will Paulus
+Director of Enterprise Sales  Jan 15, 2013  Jan 15, 2017
+Darin Enferadi
+Darin Enferadi
+Sr. Recruiter Sep 30, 2013  Jan 7, 2016
+Gary Colman
+Gary Colman
+Site Reliability Engineering Manager  Feb 23, 2015  Nov 20, 2015
+Kinh DeMaree
+Kinh DeMaree
+Principal Recruiter 2012  2012
+VIEW ALL
+Events
+Number of Events
+5
+Mobile Growth SF Bay Area with Adobe, WeWork, StubHub, and Smule at Adobe
+Mobile Growth SF Bay Area with Adobe, WeWork, StubHub, and Smule at Adobe
+Sponsor
+Aug 22, 2018
+The Open Mobile Summit 2017
+The Open Mobile Summit 2017
+Sponsor
+Nov 29, 2017
+Women in Product Conference 2017
+Women in Product Conference 2017
+Sponsor
+Sep 19, 2017
+Web Summit 2016
+Web Summit 2016
+Sponsor
+Nov 7, 2016
+Mobile World Congress 2016
+Mobile World Congress 2016
+Exhibitor
+Feb 22, 2016
+Recent News & Activity
+Date
+Activity
+Apr 24, 2018
+Mixpanel: CNBC — Twitter's former 'Mr. Fixit' takes over analytics start-up Mixpanel as 29-year-old CEO steps down
+Feb 26, 2018
+Mixpanel: Wired — Covert 'Replay Sessions' Have Been Harvesting Passwords by Mistake
+Feb 7, 2018
+Mixpanel: The Register — Web analytics outfit Mixpanel slurped surfers' passwords
+Feb 5, 2018
+Mixpanel: TechCrunch — Mixpanel analytics accidentally slurped up passwords
+Jul 14, 2017
+Mixpanel: AdExchanger — McDonald's Is Changing Its Agency Partnerships; Mobile Customer Data Platforms Are Going Strong
+Jun 15, 2017
+Mixpanel: #500strong — Part 1: 7 Focus Areas Every GREAT Growth Marketing Hire Should Know Inside & Out
+Apr 24, 2017
+Mixpanel: Sramana Mitra — Billion Dollar Unicorns: C3 IoT Joins the Club
+Apr 22, 2017
+Mixpanel: PRWeb Sitemap — The Arc San Francisco Recognizes Corporate Employees with Developmental Disabilities and Employer Champions
+Apr 18, 2017
+Mixpanel: Med City News — Better raises $1.1M for service to help individuals correct and secure health insurance claims
+Apr 18, 2017
+Mixpanel: Sramana Mitra — Billion Dollar Unicorns: Zoom Video Communications Enters the Club
+VIEW ALL
+Twitter
+MIXPANEL ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Gusto
+
+GitLab
+
+Ginkgo Bioworks
+
+Flexport
+
+Dropbox
+
+DoorDash
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

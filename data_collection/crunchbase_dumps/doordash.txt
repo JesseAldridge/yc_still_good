@@ -1,0 +1,531 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+DoorDash
+Overview
+Siftery
+Funding Rounds
+Investors
+Acquisitions
+Related Hubs
+Company Tech Stack by Siftery
+Mobile App Metrics by Apptopia
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Competitors & Revenue by Owler
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Number of Acquisitions
+1
+Total Funding Amount
+$971.8M
+DoorDash
+DoorDash
+DoorDash enables small businesses to provide its customers with local delivery services.
+San Francisco, California, United States
+Categories
+Delivery, Food Delivery, Local, Logistics, Mobile, Small and Medium Businesses
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+2013
+Founders
+Andy Fang, Evan Moore, Stanley Tang, Tony Xu
+Operating Status
+Active
+Funding Status
+Late Stage Venture
+Last Funding Type
+Series E
+Number of Employees
+251-500
+Also Known As
+Palo Alto Delivery, Doordash, Inc.
+Hub Tags
+Unicorn
+IPO Status
+Private
+Company Type
+For Profit
+Website
+www.doordash.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+support@doordash.com
+Phone Number
+650-681-9470
+DoorDash provides on-demand restaurant food delivery services connecting customers with local businesses in Honolulu and Ottawa areas.
+
+Andy Fang, Evan Moore, Stanley Tang, and Tony Xu founded Palo Alto Delivery in June 2013, which became DoorDash, Inc. in October 2014, with its headquarters based in San Francisco in California.
+
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Funding Rounds
+Number of Funding Rounds
+7
+Total Funding Amount
+$971.8M
+DoorDash raised a total of $971.8M in funding over 7 rounds. The latest funding came from a Series E round on Aug 16, 2018.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Aug 16, 2018
+Series E - DoorDash
+Series E - DoorDash
+2 $250M Coatue Management, DST Global
+Mar 1, 2018
+Series D - DoorDash
+Series D - DoorDash
+4 $535M Softbank Vision Fund
+Mar 22, 2016
+Series C - DoorDash
+Series C - DoorDash
+5 $127M Sequoia Capital
+Mar 26, 2015
+Series B - DoorDash
+Series B - DoorDash
+8 $40M  Kleiner Perkins
+May 22, 2014
+Series A - DoorDash
+Series A - DoorDash
+5 $17.3M  Sequoia Capital
+Sep 30, 2013
+Angel Round - DoorDash
+Angel Round - DoorDash
+12  $2.4M Khosla Ventures
+Mar 1, 2013
+Seed Round - DoorDash
+Seed Round - DoorDash
+1 $120K Y Combinator
+Investors
+Number of Lead Investors
+7
+Number of Investors
+21
+DoorDash is funded by 21 investors. Coatue Management and DST Global are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Coatue Management
+Coatue Management
+Yes
+Series E - DoorDash
+Series E - DoorDash
+—
+DST Global
+DST Global
+Yes
+Series E - DoorDash
+Series E - DoorDash
+Rahul Mehta
+Softbank Vision Fund
+Softbank Vision Fund
+Yes
+Series D - DoorDash
+Series D - DoorDash
+Jeffrey Housenbold
+Sequoia Capital
+Sequoia Capital
+No
+Series D - DoorDash
+Series D - DoorDash
+Alfred Lin
+Wellcome Trust
+Wellcome Trust
+No
+Series D - DoorDash
+Series D - DoorDash
+—
+GIC
+GIC
+No
+Series D - DoorDash
+Series D - DoorDash
+Jeremy Kranz
+Wellcome Trust
+Wellcome Trust
+No
+Series C - DoorDash
+Series C - DoorDash
+—
+Khosla Ventures
+Khosla Ventures
+No
+Series C - DoorDash
+Series C - DoorDash
+Keith Rabois
+Y Combinator
+Y Combinator
+No
+Series C - DoorDash
+Series C - DoorDash
+—
+Kleiner Perkins
+Kleiner Perkins
+No
+Series C - DoorDash
+Series C - DoorDash
+John Doerr
+VIEW ALL
+Acquisitions
+Number of Acquisitions
+1
+DoorDash acquired Rickshaw on Sep 14, 2017.
+Which types of acquisition does this organization make most frequently?
+Show
+Acquired Organization Name
+
+Announced Date
+
+Price
+
+Transaction Name
+
+Rickshaw
+Rickshaw
+Sep 14, 2017  —
+Rickshaw acquired by DoorDash
+Rickshaw acquired by DoorDash
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+West Coast Companies (Top 10K)
+West Coast Companies (Top 10K)
+9,943
+California Local Companies
+California Local Companies
+252
+Food Delivery Companies
+Food Delivery Companies
+1,095
+Food Delivery Startups
+Food Delivery Startups
+229
+West Coast Small and Medium Businesses Companies
+West Coast Small and Medium Businesses Companies
+317
+Sequoia Capital Portfolio Companies
+Sequoia Capital Portfolio Companies
+632
+West Coast Late Stage Companies
+West Coast Late Stage Companies
+1,036
+Mobile Companies with Late Stage Venture Funding
+Mobile Companies with Late Stage Venture Funding
+308
+San Francisco Bay Area Unicorn Startups
+San Francisco Bay Area Unicorn Startups
+67
+United States Startups Founded in 2013
+United States Startups Founded in 2013
+2,783
+VIEW ALL
+
+Company Tech Stack by Siftery
+Active Products
+DoorDash uses 79 technology products and services including Google Analytics, WordPress, and G Suite (formerly Google Apps for Work).
+UNLOCK MORE TECHNOLOGIES DATA ❯
+
+Mobile App Metrics by Apptopia
+Overview
+Ratings
+SDKs
+Total Downloads
+527,224
+Total Downloads Growth
+0.18%
+DoorDash has 527,224 monthly app downloads. The most popular apps downloaded are DoorDash - Order Food Delivery, Dasher, and DoorDash Order Manager.
+Monthly usage overview for all apps (iOS & Android)
+App Name
+
+App Store
+
+Monthly Downloads
+
+Daily Active Users
+
+Monthly Active Users
+
+DoorDash - Order Food Delivery
+DoorDash - Order Food Delivery
+Google Play, itunes 508,551 — —
+Dasher
+Dasher
+Google Play 18,663  — —
+DoorDash Order Manager
+DoorDash Order Manager
+Google Play 10  — —
+Last updated: Jul 31, 2018
+Powered by
+
+
+Website Tech Stack by BuiltWith
+Active Technology
+DoorDash is actively using 37 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and SSL by Default.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+12,166,195
+Monthly Visits Growth
+13.62%
+DoorDash is ranked 4,455 among websites globally based on its 12,166,195 monthly web visitors.
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+United States 42% 11.72%  848 -17.11%
+Canada  3%  12.51%  1,927 -11.12%
+United Kingdom  0%  14% 64,477  -7.34%
+Philippines 0%  41.02%  11,824  -17.51%
+India 0%  59.73%  60,939  -17.95%
+Last updated: Sep 14, 2018
+Powered by
+
+
+Competitors & Revenue by Owler
+Revenue
+$10M
+Number of Competitors
+4
+DoorDash has $10M in revenue annually. DoorDash competes with Munchery, EatStreet, and Foodtoeat.
+Number of Employees
+198
+CEO Approval Rating
+54
+Competitors and Revenue
+Munchery
+Munchery
+$14.1M
+Munchery is an online food ordering platform that allows users to order meals for same-night delivery from local chefs.
+EatStreet
+EatStreet
+$4.7M
+EatStreet is a web and mobile-based application that allows users to order food and get delivery services from local restaurants.
+Foodtoeat
+Foodtoeat
+$2M
+FoodToEat provides online based food ordering and delivery services.
+Last updated: Sep 7, 2018
+Powered by
+
+Current Team
+Number of Current Team Members
+8
+DoorDash has 8 current team members, including CEO & Co-Founder Tony Xu.
+Tony Xu
+Tony Xu
+CEO & Co-Founder
+Andy Fang
+Andy Fang
+CTO and Co-founder
+Stanley Tang
+Stanley Tang
+Co-founder
+Christopher Payne
+Christopher Payne
+COO
+Raghav Ramesh
+Raghav Ramesh
+Software Engineer
+Kim Sciarratta
+Kim Sciarratta
+Strategic Partner Manager II
+Michael Bloch
+Michael Bloch
+Regional General Manager
+Jessica Lachs
+Jessica Lachs
+Business Operations & Analytics
+VIEW ALL
+Board Members and Advisors
+Number of Board Members / Advisors
+4
+Jeremy Kranz
+Jeremy Kranz
+Board Member
+Alfred Lin
+Alfred Lin
+Board Member
+May 2014
+Jeffrey Housenbold
+Jeffrey Housenbold
+Board Member
+John Doerr
+John Doerr
+Board Member
+Past Team
+Number of Past Team Members
+11
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Faisal Al-Khalidi
+Faisal Al-Khalidi
+Marketing Analyst Mar 20, 2017  Nov 15, 2017
+Mike Dinsdale
+Mike Dinsdale
+Chief Financial Officer Oct 2016  Oct 25, 2017
+Benjamin Kowalski
+Benjamin Kowalski
+Product Designer  Jun 2015  Sep 2017
+Ding Zhou
+Ding Zhou
+VP Engineering  2015  2017
+Cameron Woodsum
+Cameron Woodsum
+Special Ops Manager Jun 2015  Jul 2016
+VIEW ALL
+Events
+Number of Events
+3
+Grace Hopper Celebration of Women in Computing 2018
+Grace Hopper Celebration of Women in Computing 2018
+Sponsor
+Sep 26, 2018
+Mobile Growth SF Bay Area with Adobe, WeWork, StubHub, and Smule at Adobe
+Mobile Growth SF Bay Area with Adobe, WeWork, StubHub, and Smule at Adobe
+Sponsor
+Aug 22, 2018
+Y Combinator Summer 2013 Demo Day
+Y Combinator Summer 2013 Demo Day
+Exhibitor
+Aug 20, 2013
+Recent News & Activity
+Date
+Activity
+Sep 25, 2018
+DoorDash: TechCrunch — DoorDash customers say their accounts have been hacked
+Sep 10, 2018
+DoorDash: PRNewswire — Applebee's® Partners with DoorDash to Make Watching the Game a Lot More Rewarding with Free Delivery Every Monday This Football Season
+Sep 5, 2018
+DoorDash: PRNewswire — DoorDash Arrives In 60 New Cities In Florida, Offers Delivery From More Than 3000 Local Restaurants
+Aug 31, 2018
+DoorDash: AdExchanger — DoorDash Blends Brand And Performance To Deliver The Marketing Goods
+Aug 29, 2018
+DoorDash: Sun Sentinel — Free delivery from Chipotle through Sept. 12
+Aug 28, 2018
+DoorDash: Channel NewsAsia — Chipotle launches delivery service with DoorDash
+Aug 24, 2018
+DoorDash: TechCrunch — The lobbying is fast and furious as gig companies seek relief from pro-labor Supreme Court ruling
+Aug 21, 2018
+DoorDash: Business Vancouver — BIV Today No. 74: AI job threat is already here
+Aug 20, 2018
+DoorDash: PRWeb — Menufy Partners with DoorDash to Enable Food Delivery for Restaurants
+Aug 18, 2018
+DoorDash: Startup Report — bit.ly/2vSwvHl
+VIEW ALL
+Twitter
+
+DOORDASH ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Docker
+
+Cruise Automation
+
+Coinbase
+
+Instacart
+
+Airbnb
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

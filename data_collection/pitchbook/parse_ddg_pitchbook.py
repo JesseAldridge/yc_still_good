@@ -14,8 +14,6 @@ for path in glob.glob('ddg_results/*.html'):
     match = re.search('uddg=(.+?)"', h2_text)
     url_encoded = match.group(1)
     url_decoded = urllib.unquote(url_encoded).decode('utf8')
-    with open('pitchbook_urls.txt', 'a') as f:
-      f.write(url_decoded + '\n')
 
     company_dict = {
       "name": os.path.basename(path).rsplit('.html')[0],

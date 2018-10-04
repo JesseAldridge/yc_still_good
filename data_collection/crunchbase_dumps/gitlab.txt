@@ -1,0 +1,501 @@
+Crunchbase
+
+Search Crunchbase
+Search Crunchbase
+Crunchbase Pro
+SEARCH
+Companies
+People
+Investors
+Funding Rounds
+Acquisitions
+Schools
+Events
+Hubs
+My Searches
+My Lists
+Marketplace
+Add New Profile
+About • Terms • Careers • Sitemap
+Editorial Partners: Oath Tech
+© 2018 Crunchbase Inc.
+All rights reserved. (3b239fe 108)
+GitLab
+Overview
+Siftery
+Funding Rounds
+Investors
+Acquisitions
+Related Hubs
+Website Tech Stack by BuiltWith
+Web Traffic by SimilarWeb
+Current Team
+Board Members and Advisors
+Past Team
+Events
+Recent News & Activity
+Twitter
+Overview
+Number of Acquisitions
+3
+Total Funding Amount
+$145.5M
+GitLab
+GitLab
+GitLab is a web-based open source Git repository manager with wiki and issue tracking features and built-in CI/CD.
+San Francisco, California, United States
+Categories
+Information Technology, Open Source, Software
+Headquarters Regions
+San Francisco Bay Area, West Coast, Western US
+Founded Date
+2014
+Founders
+Dmitriy Zaporozhets, Sytse Sijbrandij
+Operating Status
+Active
+Funding Status
+Late Stage Venture
+Last Funding Type
+Series D
+Number of Employees
+251-500
+Hub Tags
+Unicorn
+IPO Status
+Private
+Company Type
+For Profit
+Website
+about.gitlab.com
+Facebook
+View on Facebook
+LinkedIn
+View on LinkedIn
+Twitter
+View on Twitter
+Contact Email
+contact@gitlab.com
+GitLab is an open-source code collaboration platform that enables developers to create, review, and deploy code bases. It is built to run on clients’ infrastructures.
+
+The platform includes Git repository management, code reviews, issue tracking, wikis, and more, along with a continuous integration and deployment tool called “GitLab CI”.
+
+GitLab...
+
+Read More
+
+Siftery
+Active products
+Products Timeline
+Total Products Active
+55
+Total Product Changes
+10.5%
+
+Funding Rounds
+Number of Funding Rounds
+6
+Total Funding Amount
+$145.5M
+GitLab raised a total of $145.5M in funding over 6 rounds. The latest funding came from a Series D round on Sep 19, 2018.
+Which funding types raised the most money?
+Show
+How much funding has this organization raised over time?
+Show
+Announced Date
+
+Transaction Name
+
+Number of Investors
+
+Money Raised
+
+Lead Investors
+
+Sep 19, 2018
+Series D - GitLab
+Series D - GitLab
+3 $100M ICONIQ Capital
+Oct 9, 2017
+Series C - GitLab
+Series C - GitLab
+2 $20M  GV
+Sep 13, 2016
+Series B - GitLab
+Series B - GitLab
+3 $20M  August Capital
+Sep 24, 2015
+Series A - GitLab
+Series A - GitLab
+1 $4M Khosla Ventures
+Jul 8, 2015
+Seed Round - GitLab
+Seed Round - GitLab
+7 $1.5M —
+Dec 1, 2014
+Seed Round - GitLab
+Seed Round - GitLab
+2 — —
+Investors
+Number of Lead Investors
+4
+Number of Investors
+12
+GitLab is funded by 12 investors. Khosla Ventures and ICONIQ Capital are the most recent investors.
+Which investors participated in the most funding rounds?
+Show
+Investor Name
+
+Lead Investor
+
+Funding Round
+
+Partners
+
+Khosla Ventures
+Khosla Ventures
+—
+Series D - GitLab
+Series D - GitLab
+—
+ICONIQ Capital
+ICONIQ Capital
+Yes
+Series D - GitLab
+Series D - GitLab
+—
+GV
+GV
+—
+Series D - GitLab
+Series D - GitLab
+—
+GV
+GV
+Yes
+Series C - GitLab
+Series C - GitLab
+Dave Munichiello
+Telstra Ventures
+Telstra Ventures
+—
+Series C - GitLab
+Series C - GitLab
+Stephen Schmidt
+August Capital
+August Capital
+Yes
+Series B - GitLab
+Series B - GitLab
+Villi Iltchev
+Khosla Ventures
+Khosla Ventures
+No
+Series B - GitLab
+Series B - GitLab
+—
+Y Combinator
+Y Combinator
+No
+Series B - GitLab
+Series B - GitLab
+—
+Khosla Ventures
+Khosla Ventures
+Yes
+Series A - GitLab
+Series A - GitLab
+—
+CrunchFund
+CrunchFund
+—
+Seed Round - GitLab
+Seed Round - GitLab
+—
+VIEW ALL
+Acquisitions
+Number of Acquisitions
+3
+GitLab acquired 3 organizations. GitLab most recent was Gemnasium on Jan 30, 2018.
+Which types of acquisition does this organization make most frequently?
+Show
+Acquired Organization Name
+
+Announced Date
+
+Price
+
+Transaction Name
+
+Gemnasium
+Gemnasium
+Jan 30, 2018  —
+Gemnasium acquired by GitLab
+Gemnasium acquired by GitLab
+Gitter
+Gitter
+Mar 15, 2017  —
+Gitter acquired by GitLab
+Gitter acquired by GitLab
+Gitorious
+Gitorious
+May 3, 2015 —
+Gitorious acquired by GitLab
+Gitorious acquired by GitLab
+Related Hubs
+Hub Name
+
+Number of Organizations
+
+West Coast Information Technology Companies
+West Coast Information Technology Companies
+3,075
+California Companies (Top 10K)
+California Companies (Top 10K)
+9,867
+West Coast Companies (Top 10K)
+West Coast Companies (Top 10K)
+9,943
+San Francisco Bay Area Information Technology Companies
+San Francisco Bay Area Information Technology Companies
+1,701
+California Software Companies
+California Software Companies
+6,564
+GV Portfolio Companies
+GV Portfolio Companies
+394
+West Coast Late Stage Companies
+West Coast Late Stage Companies
+1,036
+San Francisco Bay Area Unicorn Startups
+San Francisco Bay Area Unicorn Startups
+67
+United States Late Stage Companies
+United States Late Stage Companies
+1,895
+United States Software Companies with Late Stage Venture Funding
+United States Software Companies with Late Stage Venture Funding
+309
+VIEW ALL
+
+Website Tech Stack by BuiltWith
+Active Technology
+GitLab is actively using 46 technologies for its website. These include Viewport Meta, IPhone / Mobile Compatible, and SSL by Default.
+UNLOCK WEBSITE TECHNOLOGIES DATA ❯
+
+Web Traffic by SimilarWeb
+Traffic
+Engagement
+Monthly Visits
+4,606,858
+Monthly Visits Growth
+3.66%
+Site's traffic by country:
+Country
+
+Share of Monthly Visits
+
+Monthly Visits Growth
+
+Site's Rank in Country
+
+Monthly Rank Growth
+
+China 11% -8.89%  — —
+United States 10% -0.06%  — —
+Brazil  5%  -6.3% — —
+Germany 4%  -0.9% — —
+Vietnam 4%  -8.48%  — —
+Last updated: Sep 14, 2018
+Powered by
+
+Current Team
+Number of Current Team Members
+16
+GitLab has 16 current team members, including CEO Sytse Sijbrandij.
+Sytse Sijbrandij
+Sytse Sijbrandij
+CEO
+Dmitriy Zaporozhets
+Dmitriy Zaporozhets
+CTO
+Paul Machle
+Paul Machle
+Chief Financial Officer
+Job van der Voort
+Job van der Voort
+VP of Product
+Andrew Newdigate
+Andrew Newdigate
+Interim Director of Infrastructure
+Emily Kyle
+Emily Kyle
+Field Marketing Manager
+Jacob Vosmaer
+Jacob Vosmaer
+Senior Developer
+Marin Jankovski
+Marin Jankovski
+Developer
+VIEW ALL
+Board Members and Advisors
+Number of Board Members / Advisors
+8
+Matt Mullenweg
+Matt Mullenweg
+Board Member
+Oct 2017
+Dmitriy Zaporozhets
+Dmitriy Zaporozhets
+Board Member
+Dave Munichiello
+Dave Munichiello
+Board Member
+Sytse Sijbrandij
+Sytse Sijbrandij
+Board Member
+Villi Iltchev
+Villi Iltchev
+Board Member
+Bruce Armstrong
+Bruce Armstrong
+Board Member
+George Hoyem
+George Hoyem
+Board Observer
+Larry Augustin
+Larry Augustin
+Board Member
+VIEW ALL
+Past Team
+Number of Past Team Members
+9
+Person Name
+
+Title At Company
+
+Start Date
+
+End Date
+
+Ashley Smith
+Ashley Smith
+Chief Marketing Officer Sep 14, 2015  Oct 2016
+Patricio Cano
+Service Engineer  Oct 13, 2014  May 31, 2015
+Jacob Vosmaer
+Jacob Vosmaer
+Senior Service Engineer Jan 1, 2013 Jan 1, 2015
+Chris Wilson
+Service Engineer  May 1, 2016 —
+Josh Wrede
+Josh Wrede
+Account Manager May 2015  —
+VIEW ALL
+Events
+Number of Events
+22
+KubeCon CloudNativeCon North America 2018
+KubeCon CloudNativeCon North America 2018
+Sponsor
+Dec 10, 2018
+DevOps Enterprise Summit 2018,
+DevOps Enterprise Summit 2018,
+Sponsor
+Oct 25, 2018
+O'Reilly Open Source Convention Portland 2018
+O'Reilly Open Source Convention Portland 2018
+Exhibitor
+Jul 16, 2018
+TechXLR8 2018
+TechXLR8 2018
+Exhibitor
+Jun 12, 2018
+Dublin Tech Summit 2018
+Dublin Tech Summit 2018
+Exhibitor
+Apr 18, 2018
+IBM Think 2018
+IBM Think 2018
+Sponsor
+Mar 19, 2018
+Open Source Leadership Summit 2018
+Open Source Leadership Summit 2018
+Sponsor
+Mar 6, 2018
+KubeCon + CloudNativeCon North America
+KubeCon + CloudNativeCon North America
+Sponsor
+Dec 6, 2017
+VIEW ALL
+Recent News & Activity
+Date
+Activity
+Sep 19, 2018
+GitLab: TechCrunch — GitLab raises $100M
+Sep 19, 2018
+GitLab raised $100,000,000 / Series D from GV and 2 other investors
+Jun 27, 2018
+GitLab: Fierce Telecom — News of Note—OIF wraps up SDN interop; GitLab makes move to Google Cloud
+Jun 25, 2018
+GitLab: ZD Net — ​GitLab moves from Azure to Google Cloud Platform
+Jun 22, 2018
+GitLab: Silicon Angle — GitLab 11 launches to unify software projects under a single toolchain
+Jun 22, 2018
+GitLab: SDX Central — GitLab Pushes Kubernetes-Based Update for Auto DevOps
+Jun 21, 2018
+GitLab: ZD Net — GitHub: Changes to EU copyright law could derail open source distribution
+Jun 6, 2018
+GitLab: Beta News — GitLab makes premium plans free for educational establishments and open source projects
+Jun 6, 2018
+GitLab: Asian Age — Thousands of developers jump to GitLab after Microsoft’s buys GitHub
+Jun 5, 2018
+GitLab: TechCrunch — GitLab’s high-end plans are now free for open source projects and schools
+VIEW ALL
+Twitter
+
+GITLAB ON TWITTER
+Following this profile in
+Click ADD TO LIST to follow and get custom notifications about this organization.
+ADD TO LIST
+Recently viewed
+
+Ginkgo Bioworks
+
+Flexport
+
+Dropbox
+
+DoorDash
+
+Docker
+
+Cruise Automation
+VIEW ALL
+Crunchbase
+Stay Connected
+Crunchbase News
+Subscribe to the Crunchbase Daily
+Who We Are
+Company
+Careers
+Partners
+Advertise
+Blog
+Contact Us
+What We Do
+Crunchbase Pro
+Marketplace
+Crunchbase Enterprise
+Crunchbase for Applications
+Customer Stories
+Pricing
+Popular Links
+Featured Lists and Searches
+The Crunchbase Difference
+Knowledge Center
+Privacy
+Create a Profile
+Browse By: Organizations, People, Events
+Terms of Service | Privacy Policy | © 2018 Crunchbase Inc. All Rights Reserved.

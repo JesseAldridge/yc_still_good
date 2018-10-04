@@ -8,14 +8,18 @@
   stroke-width: 2px;
 }
 
+* {
+  font-family: Helvetica;
+}
+
 </style>
 <body>
 
 <script src="../d3.v4.min.js"></script>
-<script src="../data/valuations.js"></script>
+<script src="../companies.js"></script>
 <script>
 
-var margin = {top: 20, right: 20, bottom: 30, left: 50},
+var margin = {top: 20, right: 20, bottom: 60, left: 80},
     width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
@@ -41,36 +45,45 @@ var svg = d3.select("body").append("svg")
 function plot(companies) {
   var all_dates = [];
   var all_valuations = [];
-  companies.forEach(function(company) {
+  for(let company_key in companies) {
+    const company = companies[company_key];
     company.valuations.forEach(function(d) {
       all_dates.push(d.age);
       all_valuations.push(d.billions);
     })
-  });
+  };
   x.domain(d3.extent(all_dates));
   y.domain([0, d3.max(all_valuations)]);
 
-  for(var i = 0; i < companies.length; i++)
-    companies[i].id = i;
+  const ids = [];
+  let i = 0;
+  for(let company_key in companies) {
+    const company = companies[company_key];
+    company.id = i;
+    ids.push(i);
+    i += 1;
+  }
 
-  z.domain(companies.map(function(c) { return c.id; }));
+  z.domain(ids);
 
   console.log('plotting:', companies);
 
   // Add the value_line path.
-  companies.forEach(function(company) {
+  for(let company_key in companies) {
+    const company = companies[company_key];
     svg.append("path")
         .data([company.valuations])
         .attr("class", "line")
         .attr("d", value_line)
         .style("stroke", z(company.id));
-  });
+  }
 
-  companies.forEach(function(company) {
+  for(let company_key in companies) {
+    const company = companies[company_key];
     svg.append("text")
       .data([company])
       .text(function(company) {
-        return company.name;
+        return company.slug;
       })
       .attr("x", function(c) {
         return x(c.valuations[c.valuations.length - 1].age - .5);
@@ -80,28 +93,42 @@ function plot(companies) {
       })
       .attr("font_family", "sans-serif")
       .attr("font-size", "14px");
-  });
+  };
 
   // Add the X Axis
   svg.append("g")
       .attr("transform", "translate(0," + height + ")")
       .call(d3.axisBottom(x));
 
+  svg.append("text")
+      .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+      .attr("transform", "translate(" + (width/2) + "," + (height + 40) + ")")  // centre below axis
+      .text("Date");
+
   // Add the Y Axis
   svg.append("g")
       .call(d3.axisLeft(y));
+
+  svg.append("text")
+      .attr("text-anchor", "middle")  // this makes it easy to centre the text as the transform is applied to the anchor
+      .attr("transform", "translate(" + -40 + "," + (height/2) + ")rotate(-90)")  // text is drawn off the screen top left, move down and out and rotate
+      .text("Funding");
 };
 
 (function() {
-  all_valuations.forEach(function(company) {
+  const filtered_companies = {};
+  for(let company_key in companies) {
+    const company = companies[company_key];
+    if(!company.valuations || company.valuations.length == 1)
+      continue
     company.valuations.forEach(function(v) {
       v.age = v.year - company.valuations[0].year;
     });
-  });
+    filtered_companies[company_key] = company;
+  };
 
-  all_valuations.sort(function(a, b) { return a.year_founded - b.year_founded; });
-  console.log('all_valuations:', all_valuations);
-  plot(all_valuations);
+  console.log('companies:', companies);
+  plot(filtered_companies);
 })();
 </script>
 </body>
