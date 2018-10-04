@@ -1,1 +1,1 @@
-![Plot](/plot.png?raw=true)
+![Plot](/reports/valuation_vs_age.png?raw=true)
