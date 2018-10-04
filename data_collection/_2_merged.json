@@ -1,0 +1,2221 @@
+{
+  "plangrid": {
+    "slug": "plangrid",
+    "deals": [
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "$6.88M",
+        "Date": "27-Sep-2017",
+        "Deal Type": "5. Later Stage VC (Series B)",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "16-Nov-2015",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "13-May-2015",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$1.1M",
+        "Date": "29-May-2012",
+        "Deal Type": "2. Seed Round",
+        "Stage": "Startup",
+        "Raised to Date": "$1.1M"
+      },
+      {
+        "Date": "02-Mar-2012",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "1. Seed Round"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Nov 18, 2015",
+        "amount": "$50M",
+        "num_investors": "6",
+        "who": "Tenaya Capital"
+      },
+      {
+        "date_str": "May 13, 2015",
+        "amount": "$18M",
+        "num_investors": "4",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "May 29, 2012",
+        "amount": "$1.1M",
+        "num_investors": "16",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2011
+      }
+    ]
+  },
+  "rappi": {
+    "slug": "rappi",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$218M",
+        "Date": "18-Sep-2018",
+        "Deal Type": "6. Early Stage VC",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "17-Jan-2018",
+        "Deal Type": "5. Early Stage VC (Series B)",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "22-Dec-2016",
+        "Deal Type": "4. Early Stage VC",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "22-Mar-2016",
+        "Deal Type": "3. Accelerator/Incubator",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$9M",
+        "Date": "12-Mar-2016",
+        "Deal Type": "2. Seed Round",
+        "Raised to Date": "$9.3M"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$262K",
+        "Date": "01-Jan-2016",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Raised to Date": "$262K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Aug 31, 2018",
+        "amount": "$200M",
+        "num_investors": "1",
+        "who": "DST Global"
+      },
+      {
+        "date_str": "Jan 24, 2018",
+        "amount": "$130M",
+        "num_investors": "8",
+        "who": "Delivery Hero"
+      },
+      {
+        "date_str": "Dec 16, 2016",
+        "amount": "$52.8M",
+        "num_investors": "9",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Nov 10, 2016",
+        "amount": "$9M",
+        "num_investors": "11",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 2, 2016",
+        "amount": "—",
+        "num_investors": "12",
+        "who": "—"
+      },
+      {
+        "date_str": "Mar 22, 2016",
+        "amount": "$120K",
+        "num_investors": "2",
+        "who": "Y Combinator"
+      },
+      {
+        "date_str": "Jan 11, 2015",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2015
+      },
+      {
+        "billions": 1,
+        "year": 2018
+      }
+    ]
+  },
+  "flexport": {
+    "slug": "flexport",
+    "deals": [
+      {
+        "Date": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "Completed",
+        "Raised to Date": "Generating Revenue",
+        "Deal Type": "8. Secondary Transaction - Private"
+      },
+      {
+        "Date": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "7. Debt - General"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "27-Apr-2018",
+        "Deal Type": "6. Corporate",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "21-Sep-2017",
+        "Deal Type": "5. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "19-Sep-2016",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "13-Aug-2015",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$6.9M",
+        "Date": "12-May-2015",
+        "Deal Type": "2. Early Stage VC (Series A)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "$6.9M"
+      },
+      {
+        "Date": "11-Mar-2014",
+        "Amount": "Completed",
+        "Raised to Date": "Generating Revenue",
+        "Deal Type": "1. Early Stage VC"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Apr 27, 2018",
+        "amount": "$100M",
+        "num_investors": "6",
+        "who": "S.F. Express"
+      },
+      {
+        "date_str": "Sep 21, 2017",
+        "amount": "$110M",
+        "num_investors": "6",
+        "who": "DST Global"
+      },
+      {
+        "date_str": "Sep 26, 2016",
+        "amount": "$65M",
+        "num_investors": "11",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Aug 6, 2015",
+        "amount": "$22.1M",
+        "num_investors": "18",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Apr 1, 2014",
+        "amount": "$6.9M",
+        "num_investors": "41",
+        "who": "Founders Fund"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2013
+      },
+      {
+        "billions": 0.365,
+        "year": 2016
+      },
+      {
+        "billions": 0.8,
+        "year": 2017
+      }
+    ]
+  },
+  "zenefits": {
+    "slug": "zenefits",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "$513M",
+        "Date": "01-May-2015",
+        "Deal Type": "5. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "03-Jun-2014",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "22-Jan-2014",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$2.1M",
+        "Date": "29-Jul-2013",
+        "Deal Type": "2. Seed Round",
+        "Raised to Date": "$2.1M"
+      },
+      {
+        "Date": "Completed",
+        "Amount": "Startup",
+        "Deal Type": "1. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "May 6, 2015",
+        "amount": "$500M",
+        "num_investors": "16",
+        "who": "Fidelity Investments, TPG"
+      },
+      {
+        "date_str": "Jun 3, 2014",
+        "amount": "$66.5M",
+        "num_investors": "6",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Jan 22, 2014",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Jul 26, 2013",
+        "amount": "$2.1M",
+        "num_investors": "14",
+        "who": "Maverick Ventures, Venrock"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2013
+      },
+      {
+        "billions": 4.5,
+        "year": 2015
+      },
+      {
+        "billions": 2,
+        "year": 2016
+      }
+    ]
+  },
+  "instacart": {
+    "slug": "instacart",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$350M",
+        "Date": "05-Apr-2018",
+        "Deal Type": "8. Later Stage VC (Series E)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "15-Mar-2017",
+        "Deal Type": "7. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "10-Mar-2016",
+        "Deal Type": "6. Corporate (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "01-Sep-2015",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "5. Secondary Transaction - Private"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "29-Dec-2014",
+        "Deal Type": "4. Later Stage VC (Series C)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "16-Jun-2014",
+        "Deal Type": "3. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$10.8M",
+        "Date": "04-Apr-2013",
+        "Deal Type": "2. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "$10.8M"
+      },
+      {
+        "Date": "01-Jun-2012",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "1. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Apr 5, 2018",
+        "amount": "$150M",
+        "num_investors": "6",
+        "who": "Coatue Management"
+      },
+      {
+        "date_str": "Feb 12, 2018",
+        "amount": "$200M",
+        "num_investors": "2",
+        "who": "Coatue Management"
+      },
+      {
+        "date_str": "Mar 7, 2017",
+        "amount": "$400M",
+        "num_investors": "10",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 10, 2016",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Whole Foods Market"
+      },
+      {
+        "date_str": "Jan 13, 2015",
+        "amount": "$220M",
+        "num_investors": "9",
+        "who": "Kleiner Perkins"
+      },
+      {
+        "date_str": "Jun 16, 2014",
+        "amount": "$44M",
+        "num_investors": "9",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Apr 4, 2013",
+        "amount": "$8.5M",
+        "num_investors": "6",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Oct 15, 2012",
+        "amount": "$2.3M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2012",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2012
+      },
+      {
+        "billions": 3.4,
+        "year": 2017
+      },
+      {
+        "billions": 4.2,
+        "year": 2018
+      }
+    ]
+  },
+  "reddit": {
+    "slug": "reddit",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "$200M",
+        "Date": "31-Jul-2017",
+        "Deal Type": "6. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "30-Sep-2014",
+        "Deal Type": "5. Later Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "07-Mar-2013",
+        "Deal Type": "4. Later Stage VC (Series A1)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "21-Mar-2011",
+        "Amount": "Completed",
+        "Raised to Date": "Generating Revenue",
+        "Deal Type": "3. Spin-Off"
+      },
+      {
+        "Date": "31-Oct-2006",
+        "Amount": "$100K",
+        "Raised to Date": "Completed",
+        "Post-Val": "Startup",
+        "Deal Type": "2. Merger/Acquisition"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$100K",
+        "Date": "01-Jun-2005",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Raised to Date": "$100K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Aug 1, 2017",
+        "amount": "$200M",
+        "num_investors": "11",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 30, 2014",
+        "amount": "$50M",
+        "num_investors": "16",
+        "who": "Y Combinator"
+      },
+      {
+        "date_str": "Jun 1, 2005",
+        "amount": "$100K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2005
+      },
+      {
+        "billions": 1.8,
+        "year": 2017
+      }
+    ]
+  },
+  "mixpanel": {
+    "slug": "mixpanel",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "$65M",
+        "Date": "10-Dec-2014",
+        "Deal Type": "5. Early Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "10-May-2012",
+        "Deal Type": "4. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Date": "27-May-2011",
+        "Deal Type": "3. Early Stage VC",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$500K",
+        "Date": "11-Feb-2010",
+        "Deal Type": "2. Seed Round",
+        "Raised to Date": "$515K"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$15K",
+        "Date": "19-Aug-2009",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Raised to Date": "$15K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Dec 18, 2014",
+        "amount": "$65M",
+        "num_investors": "1",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 10, 2012",
+        "amount": "$10.3M",
+        "num_investors": "4",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 27, 2011",
+        "amount": "$1.3M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Feb 11, 2010",
+        "amount": "$500K",
+        "num_investors": "2",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 1, 2009",
+        "amount": "$15K",
+        "num_investors": "2",
+        "who": "Sequoia Capital"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2009
+      },
+      {
+        "billions": 0.865,
+        "year": 2014
+      }
+    ]
+  },
+  "dropbox": {
+    "slug": "dropbox",
+    "deals": [
+      {
+        "Prev. Close": "$27.05",
+        "Market Cap": "$10.9B",
+        "Average Volume": "402M",
+        "52 wk Range": "$25.66 - $42.00",
+        "EPS": "5.21M"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Mar 30, 2017",
+        "amount": "$600M",
+        "num_investors": "6",
+        "who": "JP Morgan Chase & Co."
+      },
+      {
+        "date_str": "May 1, 2015",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Apr 6, 2014",
+        "amount": "$500M",
+        "num_investors": "1",
+        "who": "JPMorgan Partners (JPMP)"
+      },
+      {
+        "date_str": "Jan 24, 2014",
+        "amount": "$350M",
+        "num_investors": "10",
+        "who": "BlackRock"
+      },
+      {
+        "date_str": "Oct 18, 2011",
+        "amount": "$250M",
+        "num_investors": "14",
+        "who": "Index Ventures"
+      },
+      {
+        "date_str": "Nov 24, 2008",
+        "amount": "$6M",
+        "num_investors": "2",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Sep 4, 2007",
+        "amount": "$1.2M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2007",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2007",
+        "amount": "$15K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2007
+      },
+      {
+        "billions": 0.029,
+        "year": 2008
+      },
+      {
+        "billions": 4,
+        "year": 2011
+      },
+      {
+        "billions": 8,
+        "year": 2013
+      },
+      {
+        "billions": 10,
+        "year": 2014
+      },
+      {
+        "billions": 10.79,
+        "year": 2018
+      }
+    ]
+  },
+  "segment": {
+    "slug": "segment",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "$64M",
+        "Date": "13-Jul-2017",
+        "Deal Type": "5. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "09-Oct-2015",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "08-Oct-2014",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Product Development",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$600K",
+        "Date": "01-Jan-2013",
+        "Deal Type": "2. Seed Round",
+        "Stage": "Startup",
+        "Raised to Date": "$2.6M"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "$2M",
+        "Date": "01-Jan-2011",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Stage": "Startup",
+        "Raised to Date": "$2M"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Jul 13, 2017",
+        "amount": "$64M",
+        "num_investors": "7",
+        "who": "GV, Y Combinator"
+      },
+      {
+        "date_str": "Oct 9, 2015",
+        "amount": "$27M",
+        "num_investors": "5",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Oct 8, 2014",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Accel"
+      },
+      {
+        "date_str": "Oct 7, 2014",
+        "amount": "$2M",
+        "num_investors": "—",
+        "who": "—"
+      },
+      {
+        "date_str": "Jan 15, 2013",
+        "amount": "$600K",
+        "num_investors": "3",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 1, 2011",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2011
+      }
+    ]
+  },
+  "coinbase": {
+    "slug": "coinbase",
+    "deals": [
+      {
+        "Date": "Upcoming",
+        "Amount": "Generating Revenue",
+        "Deal Type": "11. Merger/Acquisition"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "10-Aug-2017",
+        "Deal Type": "10. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "07-Jul-2016",
+        "Deal Type": "9. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue/Not Profitable",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "20-Jan-2015",
+        "Deal Type": "8. Later Stage VC (Series C)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "7. Accelerator/Incubator"
+      },
+      {
+        "Date": "01-Jan-2014",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Startup",
+        "Deal Type": "6. Accelerator/Incubator"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "12-Dec-2013",
+        "Deal Type": "5. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Date": "04-Apr-2013",
+        "Deal Type": "4. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$600K",
+        "Date": "28-Dec-2012",
+        "Deal Type": "3. Seed Round",
+        "Raised to Date": "$600K"
+      },
+      {
+        "Date": "01-Jan-2012",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "2. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Aug 10, 2017",
+        "amount": "$108.1M",
+        "num_investors": "12",
+        "who": "IVP (Institutional Venture Partners)"
+      },
+      {
+        "date_str": "Jul 7, 2016",
+        "amount": "$10.5M",
+        "num_investors": "3",
+        "who": "Bank Of Tokyo - Mitsubishi UFJ"
+      },
+      {
+        "date_str": "Jan 20, 2015",
+        "amount": "$75M",
+        "num_investors": "14",
+        "who": "DFJ"
+      },
+      {
+        "date_str": "Dec 12, 2013",
+        "amount": "$25M",
+        "num_investors": "5",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 7, 2013",
+        "amount": "$6.1M",
+        "num_investors": "8",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 12, 2012",
+        "amount": "$600K",
+        "num_investors": "7",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2012
+      },
+      {
+        "billions": 1.6,
+        "year": 2017
+      },
+      {
+        "billions": 8,
+        "year": 2018
+      }
+    ]
+  },
+  "docker": {
+    "slug": "docker",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$61.8M",
+        "Date": "06-Oct-2017",
+        "Deal Type": "6. Later Stage VC (Series E)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "29-Oct-2015",
+        "Deal Type": "5. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "16-Sep-2014",
+        "Deal Type": "4. Later Stage VC (Series C)",
+        "Stage": "Product Development",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "22-Jan-2014",
+        "Deal Type": "3. Early Stage VC (Series B)",
+        "Stage": "Product Development",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$12.9M",
+        "Date": "30-Mar-2011",
+        "Deal Type": "2. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "$12.9M"
+      },
+      {
+        "Date": "22-Dec-2010",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "1. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Oct 6, 2017",
+        "amount": "$61.8M",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "May 5, 2017",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Nov 9, 2015",
+        "amount": "$18M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Apr 14, 2015",
+        "amount": "$95M",
+        "num_investors": "12",
+        "who": "Insight Venture Partners"
+      },
+      {
+        "date_str": "Sep 16, 2014",
+        "amount": "$40M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Jan 21, 2014",
+        "amount": "$15M",
+        "num_investors": "5",
+        "who": "Greylock Partners"
+      },
+      {
+        "date_str": "Mar 15, 2011",
+        "amount": "$12M",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Feb 28, 2011",
+        "amount": "$800K",
+        "num_investors": "9",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 1, 2010",
+        "amount": "$120K",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2010
+      },
+      {
+        "billions": 1.3,
+        "year": 2017
+      }
+    ]
+  },
+  "cruise": {
+    "slug": "cruise",
+    "deals": [
+      {
+        "Status": "Announced",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$3.35B",
+        "Date": "31-May-2018",
+        "Deal Type": "6. PE Growth/Expansion",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "13-Mar-2016",
+        "Deal Type": "5. Merger/Acquisition",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "01-Dec-2015",
+        "Deal Type": "4. Convertible Debt",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "18-Sep-2015",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Date": "06-Aug-2014",
+        "Amount": "$17K",
+        "Raised to Date": "Completed",
+        "Post-Val": "Startup",
+        "Deal Type": "2. Seed Round"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$97K",
+        "Date": "25-Mar-2014",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Stage": "Startup",
+        "Raised to Date": "$17K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "May 31, 2018",
+        "amount": "$3.4B",
+        "num_investors": "2",
+        "who": "General Motors"
+      },
+      {
+        "date_str": "Nov 18, 2015",
+        "amount": "$2M",
+        "num_investors": "1",
+        "who": "Qualcomm Ventures"
+      },
+      {
+        "date_str": "Sep 18, 2015",
+        "amount": "$12.5M",
+        "num_investors": "10",
+        "who": "Spark Capital"
+      },
+      {
+        "date_str": "Apr 1, 2014",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Mar 14, 2014",
+        "amount": "$4.3M",
+        "num_investors": "29",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2013
+      },
+      {
+        "billions": 1,
+        "year": 2016
+      },
+      {
+        "billions": 11.5,
+        "year": 2018
+      }
+    ]
+  },
+  "twitch": {
+    "slug": "twitch",
+    "deals": [
+      {}
+    ],
+    "rounds": [
+      {
+        "date_str": "Sep 30, 2013",
+        "amount": "$20M",
+        "num_investors": "5",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Sep 19, 2012",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Bessemer Venture Partners"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2007
+      },
+      {
+        "billions": 0.97,
+        "year": 2014
+      }
+    ]
+  },
+  "doordash": {
+    "slug": "doordash",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000</span>",
+        "Amount": "$250M",
+        "Date": "16-Aug-2018",
+        "Deal Type": "7. Later Stage VC (Series E)",
+        "Stage": "Profitable",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "01-Mar-2018",
+        "Deal Type": "6. Later Stage VC (Series D)",
+        "Stage": "Profitable",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "22-Mar-2016",
+        "Deal Type": "5. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "17-Mar-2015",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "23-May-2014",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$2.4M",
+        "Date": "30-Sep-2013",
+        "Deal Type": "2. Early Stage VC",
+        "Raised to Date": "$2.52M"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "$120K",
+        "Date": "01-Jan-2013",
+        "Deal Type": "1. Accelerator/Incubator",
+        "Stage": "Startup",
+        "Raised to Date": "$120K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Aug 16, 2018",
+        "amount": "$250M",
+        "num_investors": "2",
+        "who": "Coatue Management, DST Global"
+      },
+      {
+        "date_str": "Mar 1, 2018",
+        "amount": "$535M",
+        "num_investors": "4",
+        "who": "Softbank Vision Fund"
+      },
+      {
+        "date_str": "Mar 22, 2016",
+        "amount": "$127M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 26, 2015",
+        "amount": "$40M",
+        "num_investors": "8",
+        "who": "Kleiner Perkins"
+      },
+      {
+        "date_str": "May 22, 2014",
+        "amount": "$17.3M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Sep 30, 2013",
+        "amount": "$2.4M",
+        "num_investors": "12",
+        "who": "Khosla Ventures"
+      },
+      {
+        "date_str": "Mar 1, 2013",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2013
+      },
+      {
+        "billions": 4,
+        "year": 2018
+      }
+    ]
+  },
+  "gusto": {
+    "slug": "gusto",
+    "deals": [
+      {
+        "Date": "13-Mar-2015",
+        "Amount": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Out of Business",
+        "Deal Type": "3. Out of Business"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "27-Aug-2014",
+        "Deal Type": "2. Early Stage VC",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$1.3M",
+        "Date": "14-Apr-2014",
+        "Deal Type": "1. Early Stage VC",
+        "Raised to Date": "$1.3M"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Jul 31, 2018",
+        "amount": "$140M",
+        "num_investors": "10",
+        "who": "Dragoneer Investment Group, T. Rowe Price, Y Combinator"
+      },
+      {
+        "date_str": "Dec 21, 2015",
+        "amount": "$90M",
+        "num_investors": "6",
+        "who": "CapitalG, General Catalyst"
+      },
+      {
+        "date_str": "Apr 6, 2015",
+        "amount": "$60M",
+        "num_investors": "11",
+        "who": "CapitalG, Emergence, General Catalyst, GV, Kleiner Perkins, Ribbit Capital"
+      },
+      {
+        "date_str": "Feb 19, 2014",
+        "amount": "$20M",
+        "num_investors": "10",
+        "who": "General Catalyst, Kleiner Perkins"
+      },
+      {
+        "date_str": "Dec 11, 2012",
+        "amount": "$6.1M",
+        "num_investors": "84",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2011
+      },
+      {
+        "billions": 2,
+        "year": 2018
+      }
+    ]
+  },
+  "stripe": {
+    "slug": "stripe",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "$245M",
+        "Date": "26-Sep-2018",
+        "Deal Type": "12. Later Stage VC (Series E)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "25-Nov-2016",
+        "Deal Type": "11. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "03-Oct-2016",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "10. Corporate"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "28-Jul-2015",
+        "Deal Type": "9. Later Stage VC (Series C2)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "02-Dec-2014",
+        "Deal Type": "8. Later Stage VC (Series C1)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "22-Jan-2014",
+        "Deal Type": "7. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "27-Jun-2013",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "6. Early Stage VC (Series B2)"
+      },
+      {
+        "Date": "18-Jun-2013",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "5. Accelerator/Incubator"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "$20M",
+        "Date": "09-Jul-2012",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Raised to Date": "$40M"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "$18M",
+        "Date": "09-Feb-2012",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "$20M"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Sep 27, 2018",
+        "amount": "$245M",
+        "num_investors": "5",
+        "who": "Tiger Global Management"
+      },
+      {
+        "date_str": "Nov 25, 2016",
+        "amount": "$150M",
+        "num_investors": "3",
+        "who": "CapitalG, General Catalyst"
+      },
+      {
+        "date_str": "Jul 31, 2015",
+        "amount": "$100M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 2, 2014",
+        "amount": "$70M",
+        "num_investors": "7",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Jan 22, 2014",
+        "amount": "$80M",
+        "num_investors": "4",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Jul 9, 2012",
+        "amount": "$20M",
+        "num_investors": "9",
+        "who": "General Catalyst"
+      },
+      {
+        "date_str": "Feb 9, 2012",
+        "amount": "$18M",
+        "num_investors": "1",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 28, 2011",
+        "amount": "$2M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Aug 2, 2010",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2010
+      },
+      {
+        "billions": 0.5,
+        "year": 2012
+      },
+      {
+        "billions": 3.5,
+        "year": 2014
+      },
+      {
+        "billions": 9,
+        "year": 2016
+      },
+      {
+        "billions": 20,
+        "year": 2018
+      }
+    ]
+  },
+  "ginkgo-bioworks": {
+    "slug": "ginkgo-bioworks",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$275M",
+        "Date": "13-Dec-2017",
+        "Deal Type": "9. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "08-Jun-2016",
+        "Deal Type": "8. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "05-Oct-2015",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Raised to Date": "Completed",
+        "Post-Val": "Generating Revenue",
+        "Deal Type": "7. Debt - General"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Date": "08-Jul-2015",
+        "Deal Type": "6. Later Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "18-Mar-2015",
+        "Deal Type": "5. Later Stage VC (Series A)",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "01-Jan-2015",
+        "Deal Type": "4. Grant",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "19-Aug-2014",
+        "Deal Type": "3. Accelerator/Incubator",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Date": "06-Jul-2014",
+        "Amount": "Completed",
+        "Raised to Date": "Generating Revenue",
+        "Deal Type": "2. Seed Round"
+      },
+      {
+        "Date": "01-Jan-2010",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "1. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Dec 14, 2017",
+        "amount": "$275M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 8, 2016",
+        "amount": "$100M",
+        "num_investors": "6",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 23, 2015",
+        "amount": "$45M",
+        "num_investors": "4",
+        "who": "Viking Global Investors"
+      },
+      {
+        "date_str": "Mar 18, 2015",
+        "amount": "$9M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 16, 2014",
+        "amount": "$120K",
+        "num_investors": "11",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2009
+      },
+      {
+        "billions": 1,
+        "year": 2017
+      }
+    ]
+  },
+  "weebly": {
+    "slug": "weebly",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "$365M",
+        "Date": "31-May-2018",
+        "Deal Type": "7. Merger/Acquisition",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Date": "11-Aug-2016",
+        "Deal Type": "6. Later Stage VC",
+        "Raised to Date": "<span class=\"data-table__gray-box\">0000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "22-Apr-2014",
+        "Deal Type": "5. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Date": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "Completed",
+        "Raised to Date": "Startup",
+        "Deal Type": "4. Accelerator/Incubator"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "01-Mar-2011",
+        "Deal Type": "3. Early Stage VC (Series B)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$650K",
+        "Date": "09-May-2007",
+        "Deal Type": "2. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "$850K"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$200K",
+        "Date": "15-Jan-2007",
+        "Deal Type": "1. Seed Round",
+        "Raised to Date": "$200K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Apr 22, 2014",
+        "amount": "$35M",
+        "num_investors": "2",
+        "who": "Sequoia Capital, Tencent Holdings"
+      },
+      {
+        "date_str": "Mar 1, 2011",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "May 1, 2007",
+        "amount": "$650K",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jan 1, 2007",
+        "amount": "$20K",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2007
+      },
+      {
+        "billions": 0.49,
+        "year": 2015
+      },
+      {
+        "billions": 0.365,
+        "year": 2018
+      }
+    ]
+  },
+  "airbnb": {
+    "slug": "airbnb",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "$1B",
+        "Date": "02-Sep-2017",
+        "Deal Type": "11. Later Stage VC (Series F)",
+        "Stage": "Profitable",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "15-Jun-2016",
+        "Deal Type": "10. Debt - General",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Date": "20-Nov-2015",
+        "Deal Type": "9. Later Stage VC (Series E)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "01-Oct-2014",
+        "Deal Type": "8. Secondary Transaction - Private",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "18-Apr-2014",
+        "Deal Type": "7. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "05-Dec-2012",
+        "Deal Type": "6. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Generating Revenue",
+        "Post-Val": "Completed",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "02-Feb-2012",
+        "Deal Type": "5. Corporate",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00000</span>",
+        "Date": "25-Jul-2011",
+        "Deal Type": "4. Early Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$7.2M",
+        "Date": "10-Nov-2010",
+        "Deal Type": "3. Early Stage VC (Series A)",
+        "Raised to Date": "$7.83M"
+      },
+      {
+        "Status": "Startup",
+        "Post-Val": "Completed",
+        "Amount": "$615K",
+        "Date": "01-Apr-2009",
+        "Deal Type": "2. Seed Round",
+        "Raised to Date": "$635K"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Mar 9, 2017",
+        "amount": "$447.8M",
+        "num_investors": "5",
+        "who": "CapitalG, TCV"
+      },
+      {
+        "date_str": "Oct 17, 2016",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 22, 2016",
+        "amount": "$555.5M",
+        "num_investors": "6",
+        "who": "CapitalG, TCV"
+      },
+      {
+        "date_str": "Jun 16, 2016",
+        "amount": "$1B",
+        "num_investors": "4",
+        "who": "JP Morgan Chase & Co."
+      },
+      {
+        "date_str": "Nov 20, 2015",
+        "amount": "$100M",
+        "num_investors": "1",
+        "who": "FirstMark"
+      },
+      {
+        "date_str": "Jun 28, 2015",
+        "amount": "$1.5B",
+        "num_investors": "15",
+        "who": "General Atlantic, Hillhouse Capital Group, Tiger Global Management"
+      },
+      {
+        "date_str": "Apr 16, 2014",
+        "amount": "$475M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Oct 28, 2013",
+        "amount": "$200M",
+        "num_investors": "5",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Jul 25, 2011",
+        "amount": "$112M",
+        "num_investors": "9",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Nov 10, 2010",
+        "amount": "$7.2M",
+        "num_investors": "9",
+        "who": "Greylock Partners"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2008
+      },
+      {
+        "billions": 1,
+        "year": 2011
+      },
+      {
+        "billions": 2.5,
+        "year": 2012
+      },
+      {
+        "billions": 10,
+        "year": 2014
+      },
+      {
+        "billions": 24,
+        "year": 2015
+      },
+      {
+        "billions": 31,
+        "year": 2017
+      },
+      {
+        "billions": 38,
+        "year": 2018
+      }
+    ]
+  },
+  "gitlab": {
+    "slug": "gitlab",
+    "deals": [
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Amount": "$100M",
+        "Date": "19-Sep-2018",
+        "Deal Type": "7. Later Stage VC (Series D)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "09-Oct-2017",
+        "Deal Type": "6. Later Stage VC (Series C)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">0000</span>",
+        "Amount": "<span class=\"data-table__gray-box\">0000</span>",
+        "Date": "13-Sep-2016",
+        "Deal Type": "5. Early Stage VC (Series B)",
+        "Stage": "Generating Revenue",
+        "Raised to Date": "<span class=\"data-table__gray-box\">000.00</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">000</span>",
+        "Date": "24-Sep-2015",
+        "Deal Type": "4. Early Stage VC (Series A)",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">000.00</span>",
+        "Amount": "<span class=\"data-table__gray-box\">00.00</span>",
+        "Date": "09-Jul-2015",
+        "Deal Type": "3. Seed Round",
+        "Stage": "Startup",
+        "Raised to Date": "<span class=\"data-table__gray-box\">00.000</span>"
+      },
+      {
+        "Status": "Completed",
+        "Post-Val": "<span class=\"data-table__gray-box\">00.000</span>",
+        "Amount": "$120K",
+        "Date": "23-Mar-2015",
+        "Deal Type": "2. Accelerator/Incubator",
+        "Stage": "Startup",
+        "Raised to Date": "$120K"
+      },
+      {
+        "Date": "Completed",
+        "Amount": "Startup",
+        "Deal Type": "1. Accelerator/Incubator"
+      }
+    ],
+    "rounds": [
+      {
+        "date_str": "Sep 19, 2018",
+        "amount": "$100M",
+        "num_investors": "3",
+        "who": "ICONIQ Capital"
+      },
+      {
+        "date_str": "Oct 9, 2017",
+        "amount": "$20M",
+        "num_investors": "2",
+        "who": "GV"
+      },
+      {
+        "date_str": "Sep 13, 2016",
+        "amount": "$20M",
+        "num_investors": "3",
+        "who": "August Capital"
+      },
+      {
+        "date_str": "Sep 24, 2015",
+        "amount": "$4M",
+        "num_investors": "1",
+        "who": "Khosla Ventures"
+      },
+      {
+        "date_str": "Jul 8, 2015",
+        "amount": "$1.5M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 1, 2014",
+        "amount": "—",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ],
+    "valuations": [
+      {
+        "billions": 0,
+        "year": 2014
+      },
+      {
+        "billions": 1.1,
+        "year": 2018
+      }
+    ]
+  },
+  "sourcegraph": {
+    "slug": "sourcegraph",
+    "rounds": [
+      {
+        "date_str": "Oct 6, 2017",
+        "amount": "$20M",
+        "num_investors": "2",
+        "who": "Goldcrest Capital, Redpoint"
+      }
+    ]
+  },
+  "one-medical": {
+    "slug": "one-medical",
+    "rounds": [
+      {
+        "date_str": "Aug 22, 2018",
+        "amount": "$220M",
+        "num_investors": "1",
+        "who": "Carlyle Group"
+      },
+      {
+        "date_str": "Aug 22, 2018",
+        "amount": "$130M",
+        "num_investors": "1",
+        "who": "Carlyle Group"
+      },
+      {
+        "date_str": "Mar 18, 2017",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 8, 2015",
+        "amount": "$65M",
+        "num_investors": "2",
+        "who": "J.P. Morgan Asset Management"
+      },
+      {
+        "date_str": "Apr 17, 2014",
+        "amount": "$40M",
+        "num_investors": "6",
+        "who": "Redmile Group"
+      },
+      {
+        "date_str": "Mar 23, 2013",
+        "amount": "$30M",
+        "num_investors": "5",
+        "who": "GV"
+      },
+      {
+        "date_str": "Sep 2, 2011",
+        "amount": "$20M",
+        "num_investors": "4",
+        "who": "Benchmark, Maverick Ventures, Oak Investment Partners"
+      },
+      {
+        "date_str": "Jan 1, 2009",
+        "amount": "$15M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Nov 24, 2008",
+        "amount": "$8M",
+        "num_investors": "3",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 17, 2007",
+        "amount": "$3.5M",
+        "num_investors": "1",
+        "who": "Benchmark"
+      }
+    ]
+  }
+}

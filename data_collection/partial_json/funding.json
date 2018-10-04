@@ -1,0 +1,892 @@
+[
+  {
+    "name": "sourcegraph",
+    "rounds": [
+      {
+        "date_str": "Oct 6, 2017",
+        "amount": "$20M",
+        "num_investors": "2",
+        "who": "Goldcrest Capital, Redpoint"
+      }
+    ]
+  },
+  {
+    "name": "gitlab",
+    "rounds": [
+      {
+        "date_str": "Sep 19, 2018",
+        "amount": "$100M",
+        "num_investors": "3",
+        "who": "ICONIQ Capital"
+      },
+      {
+        "date_str": "Oct 9, 2017",
+        "amount": "$20M",
+        "num_investors": "2",
+        "who": "GV"
+      },
+      {
+        "date_str": "Sep 13, 2016",
+        "amount": "$20M",
+        "num_investors": "3",
+        "who": "August Capital"
+      },
+      {
+        "date_str": "Sep 24, 2015",
+        "amount": "$4M",
+        "num_investors": "1",
+        "who": "Khosla Ventures"
+      },
+      {
+        "date_str": "Jul 8, 2015",
+        "amount": "$1.5M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 1, 2014",
+        "amount": "—",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "one-medical",
+    "rounds": [
+      {
+        "date_str": "Aug 22, 2018",
+        "amount": "$220M",
+        "num_investors": "1",
+        "who": "Carlyle Group"
+      },
+      {
+        "date_str": "Aug 22, 2018",
+        "amount": "$130M",
+        "num_investors": "1",
+        "who": "Carlyle Group"
+      },
+      {
+        "date_str": "Mar 18, 2017",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 8, 2015",
+        "amount": "$65M",
+        "num_investors": "2",
+        "who": "J.P. Morgan Asset Management"
+      },
+      {
+        "date_str": "Apr 17, 2014",
+        "amount": "$40M",
+        "num_investors": "6",
+        "who": "Redmile Group"
+      },
+      {
+        "date_str": "Mar 23, 2013",
+        "amount": "$30M",
+        "num_investors": "5",
+        "who": "GV"
+      },
+      {
+        "date_str": "Sep 2, 2011",
+        "amount": "$20M",
+        "num_investors": "4",
+        "who": "Benchmark, Maverick Ventures, Oak Investment Partners"
+      },
+      {
+        "date_str": "Jan 1, 2009",
+        "amount": "$15M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Nov 24, 2008",
+        "amount": "$8M",
+        "num_investors": "3",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 17, 2007",
+        "amount": "$3.5M",
+        "num_investors": "1",
+        "who": "Benchmark"
+      }
+    ]
+  },
+  {
+    "name": "gusto",
+    "rounds": [
+      {
+        "date_str": "Jul 31, 2018",
+        "amount": "$140M",
+        "num_investors": "10",
+        "who": "Dragoneer Investment Group, T. Rowe Price, Y Combinator"
+      },
+      {
+        "date_str": "Dec 21, 2015",
+        "amount": "$90M",
+        "num_investors": "6",
+        "who": "CapitalG, General Catalyst"
+      },
+      {
+        "date_str": "Apr 6, 2015",
+        "amount": "$60M",
+        "num_investors": "11",
+        "who": "CapitalG, Emergence, General Catalyst, GV, Kleiner Perkins, Ribbit Capital"
+      },
+      {
+        "date_str": "Feb 19, 2014",
+        "amount": "$20M",
+        "num_investors": "10",
+        "who": "General Catalyst, Kleiner Perkins"
+      },
+      {
+        "date_str": "Dec 11, 2012",
+        "amount": "$6.1M",
+        "num_investors": "84",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "dropbox",
+    "rounds": [
+      {
+        "date_str": "Mar 30, 2017",
+        "amount": "$600M",
+        "num_investors": "6",
+        "who": "JP Morgan Chase & Co."
+      },
+      {
+        "date_str": "May 1, 2015",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Apr 6, 2014",
+        "amount": "$500M",
+        "num_investors": "1",
+        "who": "JPMorgan Partners (JPMP)"
+      },
+      {
+        "date_str": "Jan 24, 2014",
+        "amount": "$350M",
+        "num_investors": "10",
+        "who": "BlackRock"
+      },
+      {
+        "date_str": "Oct 18, 2011",
+        "amount": "$250M",
+        "num_investors": "14",
+        "who": "Index Ventures"
+      },
+      {
+        "date_str": "Nov 24, 2008",
+        "amount": "$6M",
+        "num_investors": "2",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Sep 4, 2007",
+        "amount": "$1.2M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2007",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2007",
+        "amount": "$15K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "airbnb",
+    "rounds": [
+      {
+        "date_str": "Mar 9, 2017",
+        "amount": "$447.8M",
+        "num_investors": "5",
+        "who": "CapitalG, TCV"
+      },
+      {
+        "date_str": "Oct 17, 2016",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 22, 2016",
+        "amount": "$555.5M",
+        "num_investors": "6",
+        "who": "CapitalG, TCV"
+      },
+      {
+        "date_str": "Jun 16, 2016",
+        "amount": "$1B",
+        "num_investors": "4",
+        "who": "JP Morgan Chase & Co."
+      },
+      {
+        "date_str": "Nov 20, 2015",
+        "amount": "$100M",
+        "num_investors": "1",
+        "who": "FirstMark"
+      },
+      {
+        "date_str": "Jun 28, 2015",
+        "amount": "$1.5B",
+        "num_investors": "15",
+        "who": "General Atlantic, Hillhouse Capital Group, Tiger Global Management"
+      },
+      {
+        "date_str": "Apr 16, 2014",
+        "amount": "$475M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Oct 28, 2013",
+        "amount": "$200M",
+        "num_investors": "5",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Jul 25, 2011",
+        "amount": "$112M",
+        "num_investors": "9",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Nov 10, 2010",
+        "amount": "$7.2M",
+        "num_investors": "9",
+        "who": "Greylock Partners"
+      }
+    ]
+  },
+  {
+    "name": "plangrid",
+    "rounds": [
+      {
+        "date_str": "Nov 18, 2015",
+        "amount": "$50M",
+        "num_investors": "6",
+        "who": "Tenaya Capital"
+      },
+      {
+        "date_str": "May 13, 2015",
+        "amount": "$18M",
+        "num_investors": "4",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "May 29, 2012",
+        "amount": "$1.1M",
+        "num_investors": "16",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "doordash",
+    "rounds": [
+      {
+        "date_str": "Aug 16, 2018",
+        "amount": "$250M",
+        "num_investors": "2",
+        "who": "Coatue Management, DST Global"
+      },
+      {
+        "date_str": "Mar 1, 2018",
+        "amount": "$535M",
+        "num_investors": "4",
+        "who": "Softbank Vision Fund"
+      },
+      {
+        "date_str": "Mar 22, 2016",
+        "amount": "$127M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 26, 2015",
+        "amount": "$40M",
+        "num_investors": "8",
+        "who": "Kleiner Perkins"
+      },
+      {
+        "date_str": "May 22, 2014",
+        "amount": "$17.3M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Sep 30, 2013",
+        "amount": "$2.4M",
+        "num_investors": "12",
+        "who": "Khosla Ventures"
+      },
+      {
+        "date_str": "Mar 1, 2013",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ]
+  },
+  {
+    "name": "zenefits",
+    "rounds": [
+      {
+        "date_str": "May 6, 2015",
+        "amount": "$500M",
+        "num_investors": "16",
+        "who": "Fidelity Investments, TPG"
+      },
+      {
+        "date_str": "Jun 3, 2014",
+        "amount": "$66.5M",
+        "num_investors": "6",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Jan 22, 2014",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Jul 26, 2013",
+        "amount": "$2.1M",
+        "num_investors": "14",
+        "who": "Maverick Ventures, Venrock"
+      }
+    ]
+  },
+  {
+    "name": "segment",
+    "rounds": [
+      {
+        "date_str": "Jul 13, 2017",
+        "amount": "$64M",
+        "num_investors": "7",
+        "who": "GV, Y Combinator"
+      },
+      {
+        "date_str": "Oct 9, 2015",
+        "amount": "$27M",
+        "num_investors": "5",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Oct 8, 2014",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Accel"
+      },
+      {
+        "date_str": "Oct 7, 2014",
+        "amount": "$2M",
+        "num_investors": "—",
+        "who": "—"
+      },
+      {
+        "date_str": "Jan 15, 2013",
+        "amount": "$600K",
+        "num_investors": "3",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 1, 2011",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "instacart",
+    "rounds": [
+      {
+        "date_str": "Apr 5, 2018",
+        "amount": "$150M",
+        "num_investors": "6",
+        "who": "Coatue Management"
+      },
+      {
+        "date_str": "Feb 12, 2018",
+        "amount": "$200M",
+        "num_investors": "2",
+        "who": "Coatue Management"
+      },
+      {
+        "date_str": "Mar 7, 2017",
+        "amount": "$400M",
+        "num_investors": "10",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 10, 2016",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Whole Foods Market"
+      },
+      {
+        "date_str": "Jan 13, 2015",
+        "amount": "$220M",
+        "num_investors": "9",
+        "who": "Kleiner Perkins"
+      },
+      {
+        "date_str": "Jun 16, 2014",
+        "amount": "$44M",
+        "num_investors": "9",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "Apr 4, 2013",
+        "amount": "$8.5M",
+        "num_investors": "6",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Oct 15, 2012",
+        "amount": "$2.3M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 1, 2012",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ]
+  },
+  {
+    "name": "docker",
+    "rounds": [
+      {
+        "date_str": "Oct 6, 2017",
+        "amount": "$61.8M",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "May 5, 2017",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Nov 9, 2015",
+        "amount": "$18M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Apr 14, 2015",
+        "amount": "$95M",
+        "num_investors": "12",
+        "who": "Insight Venture Partners"
+      },
+      {
+        "date_str": "Sep 16, 2014",
+        "amount": "$40M",
+        "num_investors": "5",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Jan 21, 2014",
+        "amount": "$15M",
+        "num_investors": "5",
+        "who": "Greylock Partners"
+      },
+      {
+        "date_str": "Mar 15, 2011",
+        "amount": "$12M",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Feb 28, 2011",
+        "amount": "$800K",
+        "num_investors": "9",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 1, 2010",
+        "amount": "$120K",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "ginkgo-bioworks",
+    "rounds": [
+      {
+        "date_str": "Dec 14, 2017",
+        "amount": "$275M",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jun 8, 2016",
+        "amount": "$100M",
+        "num_investors": "6",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 23, 2015",
+        "amount": "$45M",
+        "num_investors": "4",
+        "who": "Viking Global Investors"
+      },
+      {
+        "date_str": "Mar 18, 2015",
+        "amount": "$9M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 16, 2014",
+        "amount": "$120K",
+        "num_investors": "11",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "twitch",
+    "rounds": [
+      {
+        "date_str": "Sep 30, 2013",
+        "amount": "$20M",
+        "num_investors": "5",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Sep 19, 2012",
+        "amount": "$15M",
+        "num_investors": "3",
+        "who": "Bessemer Venture Partners"
+      }
+    ]
+  },
+  {
+    "name": "stripe",
+    "rounds": [
+      {
+        "date_str": "Sep 27, 2018",
+        "amount": "$245M",
+        "num_investors": "5",
+        "who": "Tiger Global Management"
+      },
+      {
+        "date_str": "Nov 25, 2016",
+        "amount": "$150M",
+        "num_investors": "3",
+        "who": "CapitalG, General Catalyst"
+      },
+      {
+        "date_str": "Jul 31, 2015",
+        "amount": "$100M",
+        "num_investors": "7",
+        "who": "—"
+      },
+      {
+        "date_str": "Dec 2, 2014",
+        "amount": "$70M",
+        "num_investors": "7",
+        "who": "Thrive Capital"
+      },
+      {
+        "date_str": "Jan 22, 2014",
+        "amount": "$80M",
+        "num_investors": "4",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Jul 9, 2012",
+        "amount": "$20M",
+        "num_investors": "9",
+        "who": "General Catalyst"
+      },
+      {
+        "date_str": "Feb 9, 2012",
+        "amount": "$18M",
+        "num_investors": "1",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Mar 28, 2011",
+        "amount": "$2M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Aug 2, 2010",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Y Combinator"
+      }
+    ]
+  },
+  {
+    "name": "coinbase",
+    "rounds": [
+      {
+        "date_str": "Aug 10, 2017",
+        "amount": "$108.1M",
+        "num_investors": "12",
+        "who": "IVP (Institutional Venture Partners)"
+      },
+      {
+        "date_str": "Jul 7, 2016",
+        "amount": "$10.5M",
+        "num_investors": "3",
+        "who": "Bank Of Tokyo - Mitsubishi UFJ"
+      },
+      {
+        "date_str": "Jan 20, 2015",
+        "amount": "$75M",
+        "num_investors": "14",
+        "who": "DFJ"
+      },
+      {
+        "date_str": "Dec 12, 2013",
+        "amount": "$25M",
+        "num_investors": "5",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 7, 2013",
+        "amount": "$6.1M",
+        "num_investors": "8",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 12, 2012",
+        "amount": "$600K",
+        "num_investors": "7",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "weebly",
+    "rounds": [
+      {
+        "date_str": "Apr 22, 2014",
+        "amount": "$35M",
+        "num_investors": "2",
+        "who": "Sequoia Capital, Tencent Holdings"
+      },
+      {
+        "date_str": "Mar 1, 2011",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "May 1, 2007",
+        "amount": "$650K",
+        "num_investors": "5",
+        "who": "—"
+      },
+      {
+        "date_str": "Jan 1, 2007",
+        "amount": "$20K",
+        "num_investors": "2",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "rappi",
+    "rounds": [
+      {
+        "date_str": "Aug 31, 2018",
+        "amount": "$200M",
+        "num_investors": "1",
+        "who": "DST Global"
+      },
+      {
+        "date_str": "Jan 24, 2018",
+        "amount": "$130M",
+        "num_investors": "8",
+        "who": "Delivery Hero"
+      },
+      {
+        "date_str": "Dec 16, 2016",
+        "amount": "$52.8M",
+        "num_investors": "9",
+        "who": "Sequoia Capital"
+      },
+      {
+        "date_str": "Nov 10, 2016",
+        "amount": "$9M",
+        "num_investors": "11",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 2, 2016",
+        "amount": "—",
+        "num_investors": "12",
+        "who": "—"
+      },
+      {
+        "date_str": "Mar 22, 2016",
+        "amount": "$120K",
+        "num_investors": "2",
+        "who": "Y Combinator"
+      },
+      {
+        "date_str": "Jan 11, 2015",
+        "amount": "$120K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "flexport",
+    "rounds": [
+      {
+        "date_str": "Apr 27, 2018",
+        "amount": "$100M",
+        "num_investors": "6",
+        "who": "S.F. Express"
+      },
+      {
+        "date_str": "Sep 21, 2017",
+        "amount": "$110M",
+        "num_investors": "6",
+        "who": "DST Global"
+      },
+      {
+        "date_str": "Sep 26, 2016",
+        "amount": "$65M",
+        "num_investors": "11",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Aug 6, 2015",
+        "amount": "$22.1M",
+        "num_investors": "18",
+        "who": "Founders Fund"
+      },
+      {
+        "date_str": "Apr 1, 2014",
+        "amount": "$6.9M",
+        "num_investors": "41",
+        "who": "Founders Fund"
+      }
+    ]
+  },
+  {
+    "name": "mixpanel",
+    "rounds": [
+      {
+        "date_str": "Dec 18, 2014",
+        "amount": "$65M",
+        "num_investors": "1",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 10, 2012",
+        "amount": "$10.3M",
+        "num_investors": "4",
+        "who": "Andreessen Horowitz"
+      },
+      {
+        "date_str": "May 27, 2011",
+        "amount": "$1.3M",
+        "num_investors": "4",
+        "who": "—"
+      },
+      {
+        "date_str": "Feb 11, 2010",
+        "amount": "$500K",
+        "num_investors": "2",
+        "who": "—"
+      },
+      {
+        "date_str": "Jul 1, 2009",
+        "amount": "$15K",
+        "num_investors": "2",
+        "who": "Sequoia Capital"
+      }
+    ]
+  },
+  {
+    "name": "cruise",
+    "rounds": [
+      {
+        "date_str": "May 31, 2018",
+        "amount": "$3.4B",
+        "num_investors": "2",
+        "who": "General Motors"
+      },
+      {
+        "date_str": "Nov 18, 2015",
+        "amount": "$2M",
+        "num_investors": "1",
+        "who": "Qualcomm Ventures"
+      },
+      {
+        "date_str": "Sep 18, 2015",
+        "amount": "$12.5M",
+        "num_investors": "10",
+        "who": "Spark Capital"
+      },
+      {
+        "date_str": "Apr 1, 2014",
+        "amount": "—",
+        "num_investors": "1",
+        "who": "—"
+      },
+      {
+        "date_str": "Mar 14, 2014",
+        "amount": "$4.3M",
+        "num_investors": "29",
+        "who": "—"
+      }
+    ]
+  },
+  {
+    "name": "reddit",
+    "rounds": [
+      {
+        "date_str": "Aug 1, 2017",
+        "amount": "$200M",
+        "num_investors": "11",
+        "who": "—"
+      },
+      {
+        "date_str": "Sep 30, 2014",
+        "amount": "$50M",
+        "num_investors": "16",
+        "who": "Y Combinator"
+      },
+      {
+        "date_str": "Jun 1, 2005",
+        "amount": "$100K",
+        "num_investors": "1",
+        "who": "—"
+      }
+    ]
+  }
+]
