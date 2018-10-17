@@ -517,7 +517,11 @@ const companies = {
       },
       {
         "billions": 4.2,
-        "year": 2018
+        "year": 2018.25,
+      },
+      {
+        "billions": 7,
+        "year": 2018.75
       }
     ]
   },
