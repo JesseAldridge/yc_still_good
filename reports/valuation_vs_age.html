@@ -19,30 +19,30 @@
 <script src="../companies.js"></script>
 <script>
 
-var margin = {top: 20, right: 20, bottom: 60, left: 80},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
-
-var parseTime = d3.timeParse("%d-%b-%y");
-
-var x = d3.scaleLinear().range([0, width]);
-var y = d3.scaleLinear().range([height, 0]);
-var z = d3.scaleOrdinal(d3.schemeCategory10);
-
-// define the line
-const value_line = d3.line()
-    .x(function(d) { return x(d.age); })
-    .y(function(d) { return y(d.billions); });
-
-// Add the svg element
-var svg = d3.select("body").append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
-
 function plot(companies) {
+  var margin = {top: 20, right: 20, bottom: 60, left: 80},
+      width = 960 - margin.left - margin.right,
+      height = 500 - margin.top - margin.bottom;
+
+  var parseTime = d3.timeParse("%d-%b-%y");
+
+  var x = d3.scaleLinear().range([0, width]);
+  var y = d3.scaleLinear().range([height, 0]);
+  var z = d3.scaleOrdinal(d3.schemeCategory10);
+
+  // define the line
+  const value_line = d3.line()
+      .x(function(d) { return x(d.age); })
+      .y(function(d) { return y(d.billions); });
+
+  // Add the svg element
+  var svg = d3.select("body").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+    .append("g")
+      .attr("transform",
+            "translate(" + margin.left + "," + margin.top + ")");
+
   var all_dates = [];
   var all_valuations = [];
   for(let company_key in companies) {
